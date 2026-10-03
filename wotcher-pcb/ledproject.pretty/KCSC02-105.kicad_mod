@@ -1,0 +1,231 @@
+(footprint "KCSC02-105"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSC02-105(Ver.9A).pdf")
+	(tags "Single digit 7 segement hyper red LED")
+	(property "Reference" "U1"
+		(at -4.39 -4.56 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7b036981-679b-4d9c-9655-465a2c131dd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "KCSA02-105"
+		(at -1.51 4.55 0)
+		(layer "F.Fab")
+		(uuid "d20423e6-e5ff-4e22-8df2-97abd0f5081e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.kingbright.com/attachments/file/psearch/000/00/00/KCSA02-105(Ver.10A).pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8d8e494-fc5d-4fe8-85b9-9eedd04fa85b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "One digit 7 segment hyper red LED, common anode"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e16340c8-f78a-48ec-970f-ebdd263de326")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.65 -3.7)
+		(end -6.65 3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "12bbfbc0-3fb2-4598-ad98-d86d53fd4f84")
+	)
+	(fp_line
+		(start -6.65 -3.7)
+		(end 6.65 -3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "db2734fb-adc0-4933-84ab-4b04577aa881")
+	)
+	(fp_line
+		(start 6.65 -3.7)
+		(end 6.65 3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75de0f48-9f61-43e7-8615-168e33c97ec5")
+	)
+	(fp_line
+		(start 6.65 3.7)
+		(end -6.65 3.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9758ff4d-c055-4628-90b9-af43b1c33fae")
+	)
+	(fp_line
+		(start -5 -1.45)
+		(end -3 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c59d738d-c455-4ccc-9c66-4d42f45e4b47")
+	)
+	(fp_line
+		(start -5 3.45)
+		(end -5 -1.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "387a56b9-79cb-45db-980e-2f5e3554ad0d")
+	)
+	(fp_line
+		(start -3 -3.45)
+		(end 5 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5e644b01-5a9c-474c-bc71-b8999ea8f4d1")
+	)
+	(fp_line
+		(start 5 -3.45)
+		(end 5 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3f89a2b-458b-4a5b-80c6-af7b8fe78b3b")
+	)
+	(fp_line
+		(start 5 3.45)
+		(end -5 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "29c52f73-9b4b-4ee5-be92-a4e052fbbf05")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.61 0.01 0)
+		(layer "F.Fab")
+		(uuid "9088c5e8-d860-4c6b-baf3-3791c1753a1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -5 -2.88)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3d496c21-aae5-4e5f-b9ed-4a43a7635085")
+	)
+	(pad "2" smd rect
+		(at -5 -1.44)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "685538d6-23d6-4d93-869d-018e685fcfde")
+	)
+	(pad "3" smd rect
+		(at -5 0)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "83b290ff-1a51-4d27-9f91-0e4f4979ad92")
+	)
+	(pad "4" smd rect
+		(at -5 1.44)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "70d4a2c8-9b25-49ce-bc25-ceeb2a277f54")
+	)
+	(pad "5" smd rect
+		(at -5 2.88)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "be6a71bc-07bd-4425-b91d-b312460e4dfd")
+	)
+	(pad "6" smd rect
+		(at 5 2.88)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "86362f78-19ae-4d91-b319-3a1067b83a60")
+	)
+	(pad "7" smd rect
+		(at 5 1.44)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "10429d9c-2265-4011-8eb0-f71aae983e45")
+	)
+	(pad "8" smd rect
+		(at 5 0)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a290c0b9-f3c4-444f-8946-dd7f774f09ae")
+	)
+	(pad "9" smd rect
+		(at 5 -1.44)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "62892f68-e3df-40b2-897d-75997b4b26de")
+	)
+	(pad "10" smd rect
+		(at 5 -2.88)
+		(size 2.8 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13fa96db-c204-4392-aae6-50699c042367")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Display_7Segment.3dshapes/KCSC02-105.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

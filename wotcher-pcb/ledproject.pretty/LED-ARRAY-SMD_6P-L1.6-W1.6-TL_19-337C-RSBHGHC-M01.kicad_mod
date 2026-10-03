@@ -1,0 +1,177 @@
+(footprint "LED-ARRAY-SMD_6P-L1.6-W1.6-TL_19-337C-RSBHGHC-M01"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "D2"
+		(at 0 -4.76 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "27c5569b-66c5-42de-95c2-e359d918e3bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_RGB"
+		(at 0 4.76 0)
+		(layer "F.Fab")
+		(uuid "112b9bd3-ab80-4f59-aa59-9682e047b363")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72b66367-6d2a-43c5-b694-1d91d12de132")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "RGB LED, 6 pin package"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ac1a5d4-a91e-4237-9872-79046dd799ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C3019536"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f5a7a78-0437-43b6-9300-0e46927155da")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_poly
+		(pts
+			(xy -0.154991 -0.399999) (xy -0.154991 0.399999) (xy 0.245008 0) (xy -0.154991 -0.399999)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "48f62231-9b77-4cad-bb69-e0a2b72ebf67")
+	)
+	(fp_line
+		(start -0.8 -0.8)
+		(end 0.8 -0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "117b8692-3cec-4e63-add2-e9dd736aee2b")
+	)
+	(fp_line
+		(start -0.8 0.8)
+		(end -0.8 -0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b40d475e-09bf-4ee3-a78a-c8e3385acc28")
+	)
+	(fp_line
+		(start 0.8 -0.8)
+		(end 0.8 0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6b832a4f-bad2-4a13-ad2a-4c49c7f9b411")
+	)
+	(fp_line
+		(start 0.8 0.8)
+		(end -0.8 0.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea75a58f-8d42-4fbe-99f7-3e9aa5bb9140")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "8d79e573-cdc8-4a95-b5a6-34883a3dae57")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.75 -0.76)
+		(size 0.8 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b863a7d7-8097-4d66-afac-aeabc612a742")
+	)
+	(pad "2" smd rect
+		(at -0.75 -0.76)
+		(size 0.8 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3cc4dfac-802e-4c00-812c-2ae8006c72da")
+	)
+	(pad "3" smd rect
+		(at 0.85 0)
+		(size 0.9 0.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ecafb224-59a3-4a39-84c7-aac6537ec8b4")
+	)
+	(pad "4" smd rect
+		(at -0.85 0)
+		(size 0.9 0.52)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2cc750b5-27ec-4b5b-9def-db04d5257fad")
+	)
+	(pad "5" smd rect
+		(at 0.75 0.76)
+		(size 0.8 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "96453630-9711-44b2-a34c-d3c23893fffa")
+	)
+	(pad "6" smd rect
+		(at -0.75 0.76)
+		(size 0.8 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2c015172-5379-49d1-8b1b-3874b0b3a327")
+	)
+	(embedded_fonts no)
+	(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LGA-12_L2.0-W2.0-H1.0-P0.50.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

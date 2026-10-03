@@ -1,0 +1,240 @@
+(footprint "KEY-SMD_SKTDLHE010"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "SW2"
+		(at 0 -4.9 180)
+		(layer "F.SilkS")
+		(uuid "e4d40d2d-2636-4fa0-adc9-b4f67c15c3e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SKTDLHE010"
+		(at 0 4.9 180)
+		(layer "F.Fab")
+		(uuid "f1aa0018-ff1b-40ed-acf5-685db23ce8ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Tactile-Switches_ALPS-Electric-SKTDLHE010_C380198.html"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "407eafae-0231-4530-9ffe-d046029e2bcf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eeeeff77-02c3-4066-89a8-6216a7a76ced")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C380198"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8bdc1d18-fa60-4cd3-9f05-421a8230bbd7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "ALPSALPINE(阿尔卑斯阿尔派)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c82ef72b-f67c-40b5-9318-41d3ac38efe6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "SKTDLHE010"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8e69779-1602-4cd5-b1d3-7323a35e4b47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.95 -1.06)
+		(end -0.75 -1.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aa2d9975-3ce3-441c-b4b3-8d02cab8bc34")
+	)
+	(fp_line
+		(start -1.95 0.79)
+		(end -1.95 -1.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "870a30c3-1069-4a3e-b325-2b1c3381bf44")
+	)
+	(fp_line
+		(start -0.75 -2.11)
+		(end 0.75 -2.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "71ea91df-f067-4d9a-9bf9-b2c114974d1b")
+	)
+	(fp_line
+		(start -0.75 -1.06)
+		(end -0.75 -2.11)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ae29cf4-1638-45e8-814a-640f0f7100a8")
+	)
+	(fp_line
+		(start 0.75 -2.11)
+		(end 0.75 -1.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5022a2a2-aa0e-4970-8767-424cc55ebb0c")
+	)
+	(fp_line
+		(start 0.75 -1.06)
+		(end 1.95 -1.06)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ef0d8ff-549b-4e02-a46f-d69c5b157c2a")
+	)
+	(fp_line
+		(start 1.95 -1.06)
+		(end 1.95 0.79)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f04b35ae-6796-454c-b5a0-e10c99640aee")
+	)
+	(fp_line
+		(start 1.95 0.79)
+		(end -1.95 0.79)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "271a39ca-a614-4da4-b9fe-d5136e9e726f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "51a3a737-5db4-4dce-9ff8-fa6de41f1535")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.33 0.75)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "86ad81ec-77dd-46ab-853c-a8d9f7ff8633")
+	)
+	(pad "2" smd rect
+		(at 1.33 0.75)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b1a99f91-e6de-4c42-94b1-c59aea56f61c")
+	)
+	(pad "3" smd rect
+		(at -1.85 -0.9)
+		(size 1.15 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a6516c4b-9eb0-47e4-aa95-af79fa360917")
+	)
+	(pad "3" thru_hole circle
+		(at -1.85 -0.61)
+		(size 0.8 0.8)
+		(drill 0.599998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1b7a6097-c015-498d-b900-59e7d91c213b")
+	)
+	(pad "3" smd rect
+		(at 0 0.9)
+		(size 1.4 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "63b13123-7ce1-44be-8acc-daab8ec51860")
+	)
+	(pad "3" smd rect
+		(at 1.85 -0.9)
+		(size 1.15 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6fed96af-fc73-4c47-b0d2-d1a03de1b239")
+	)
+	(pad "3" thru_hole circle
+		(at 1.85 -0.61)
+		(size 0.8 0.8)
+		(drill 0.599998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e5fb7cbb-5520-492a-ae69-b859aede8e17")
+	)
+	(embedded_fonts no)
+	(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/KEY-SMD_SKTDLHE010.step"
+		(offset
+			(xyz 0 0 1.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

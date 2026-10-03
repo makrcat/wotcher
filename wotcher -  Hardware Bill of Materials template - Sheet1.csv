@@ -1,0 +1,22 @@
+Category,Item Name,Qty,Price (total) (USD),Item link,Notes
+Prototyping,LED Matrix,1,$7.50,https://www.digikey.com/en/products/detail/adafruit-industries-llc/2947/5959341,Buying an LED Matrix to prototype test the 60 LEDs
+,3731 driver,1,$5.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/2946/5959340,
+,clock oscillator,1,$13.89,https://www.dfrobot.com/product-1991.html,breakout for clock? the cheapest shipping also is 7 typically. so 6.9 + 6.99 ish
+,ATtiny1616 breakout,1,$4.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5690/18627499?_gl=1*1cuqnpn*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwrP3VBhBbEiwAnaqpQwItg4lQeAI3e017r1VqqbKntvL4NfjhR4gegN2WXXR0hYj4T0zUjhoC5kwQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLlhHe9FEkf4CA5f5NnTYxgJfq,breakout
+,7-segment,4,$11.64,https://www.digikey.com/en/products/detail/kingbright/ACSA02-41SURKWA-F01/2163665?_gl=1*1cuqnpn*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwrP3VBhBbEiwAnaqpQwItg4lQeAI3e017r1VqqbKntvL4NfjhR4gegN2WXXR0hYj4T0zUjhoC5kwQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLlhHe9FEkf4CA5f5NnTYxgJfq,
+,soldering paste for the bottom,4,$8.99,https://www.amazon.com/Clean-Lead-Solder-Paste-Grams/dp/B017RTTR14/ref=sr_1_1?crid=2AJEKCVX5Q5NS&dib=eyJ2IjoiMSJ9.yatFvwi6AEhERYhNb7w96h8Pr-yHjMEghxnCAygmckAEs7z2sPFEFS4mCQCbgk-VqSI0u32Dz7dA-GVLl_3fLhDgFxRqIJPDzpn-GkCIxhGexHHcqJj2OjArCIq76c8Xj3xS2qi9Yk1CppyjrkxHx7UpJVfzzSHXraMEFmdTXdRvZExg4VynxEq7vkoCSrPcyyvdlIxXNkqgm7hEQdPi9v_2XNvGZDWdy5jZcbxETXQbOnE-flJ49BCVYUkWZkjsFsqvtLkoinLAvZdddQQAhS66AEbr2nc3RMiYHQiKlFM.EW5hF8VntOLdAIhxVBS8qvigLF2PeAE8Rl7-7fETF9Q&dib_tag=se&keywords=SAC305%2Bsolder%2Bpaste&qid=1791061924&sprefix=sac305%2Bsolder%2Bpaste%2Caps%2C208&sr=8-1,for the bottom
+,pogo pin clip,1,$10.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/5433/16584075 ,
+,flux paste,1,$9.99,https://www.amazon.com/Wonderway-Soldering-Electronics-CELLPHONE-Repairing/dp/B0BNKKRYK9/ref=sr_1_2_sspa?crid=1L2GURM8S5TLT&dib=eyJ2IjoiMSJ9.SsDQHFOI-bkRiD9JlyNjH0USUf8zRfK0DJKvoXd0AmyrRl0F_AbYWkLWX6itRGa4ey3WYi_M6rsa6Ovq4dCnhntkoPPPSkJv03HDEyX7w8Q2rj-rsBK6mOFQrzd7ZkNud1HzQNIrtNtdcgB5lrXy6SsNkuLE7XrOE3AUhuIYIrXSoLvp3OhfvYuh72MD_IOy-7CZSJQDxHgtx7-c1cSN2nDKiFdge9ezwFzEDQ7q0p-r0cFnslAKhOZvM2cc7ZXTEUE5U5CX3w8dJrFRq47VMFB-cuLBcF0VGQlp_ddGUzY.YYn2vRGOZ6-6tX_gCwFFGZcnD42ycIFKZEZo7tS4FGw&dib_tag=se&keywords=soldering+paste&qid=1791062897&s=hi&sprefix=soldering+pa%2Ctools%2C237&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,
+,shipping,1,$6.00,,shipping of everything from digikey 
+,soldering wire 1.5mm,1,$5.99,amazon.com/Twocorn-no-wash-tin-Lead-Electric-Soldering/dp/B0CP7QHFL6/ref=sr_1_2?crid=3EKAVLY062JCC&dib=eyJ2IjoiMSJ9.747xCQO5tRRNg4I0eKnw59L2js-5auqvDzRBTbYA6CoUKzup8bUXZ3SKMNLic8xc0qTHKDJwwyOna-PWkxXdCCHtRuuMMQFeWQlOMeJixGyOjNt_YdHnpQc8tKk4BH70umB90eUAusJcc42KmHKfnX7hwkaPR9XoKCGnjF94Ad4wkr66Krc8tEyqt4xo3hwedYY0NPcA5R4NJapoKcibdCG7nRS468bnBLWuweMWQBEs6iX5GcCcY4QzgA81bf9TCktqZFXi5EwyQ2f2MZ2iK3HRmgPfGlbS2s4rQkbR2Ds.HrBcUUcsInr7EMFH0N10_6-wFEqmTffkIIklmmF6g24&dib_tag=se&keywords=soldering+wire+no+lead&qid=1791061150&refinements=p_36%3A-700&rnid=1243644011&sprefix=soldering+wire+no+lead%2Caps%2C156&sr=8-2,
+JLCPCB assembly,everything assembly,1,$112.76,$108.18+ $0.9153 * 5,
+,sanity,,,,
+,shipping,1,$6.00,,yet more shipping
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Total Price (USD):,$204.61,,,
