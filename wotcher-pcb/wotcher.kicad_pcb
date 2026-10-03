@@ -170,7 +170,7 @@
 	(net 46 "Net-(U3-SDO)")
 	(net 47 "Net-(U5-PB1)")
 	(net 48 "unconnected-(U3-NC-Pad11)")
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "078254ca-62e2-43c0-93e8-63b9eaeca217")
 		(at 77.044351 58.376607 -48)
@@ -197,7 +197,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 312)
 			(layer "F.Fab")
 			(hide yes)
@@ -209,7 +209,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 312)
 			(layer "F.Fab")
 			(hide yes)
@@ -225,7 +225,7 @@
 			(at 0 0 312)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1f5c3e28-3dc2-47f2-ae22-6d007f5c75dc")
+			(uuid "fa57e54c-e315-4e2e-b17a-7fed28d93035")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -238,7 +238,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "646ceddc-c7a3-40a1-882d-4446aef5d4e1")
+			(uuid "8a096710-2ed7-4b91-97df-9394cfbca9ee")
 			(effects
 				(font
 					(size 1 1)
@@ -259,7 +259,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f4364ec9-9528-4fd2-b649-d30f93c7d255")
+			(uuid "9e5e0333-560b-4f9b-b933-a8f41de0e043")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -269,7 +269,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cfa9d3c7-1b5c-4c6d-b5ea-1cc6b1554bd8")
+			(uuid "5ef5cecf-4d2a-4c58-88d3-1f74c8b2a583")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -279,7 +279,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3587998a-e22c-42e1-93dd-707d6c05d1b6")
+			(uuid "9fe9b0cd-290f-43a4-8d87-f5159f448444")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -289,7 +289,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f5b9c79d-b742-49ee-a076-d29242b09f85")
+			(uuid "727b4cc7-578c-4ab4-8cf6-d050bc4ee02a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 312)
@@ -321,7 +321,7 @@
 			(uuid "4e97a674-6087-42e1-b08e-1618f43f71fb")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -333,7 +333,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "093d1849-bc23-4e0a-a7a9-3a7a18cbbdc6")
 		(at 63.996 37.084)
@@ -360,7 +360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -372,7 +372,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -388,7 +388,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aec31cd6-e807-4d43-8559-9f7eaaac071e")
+			(uuid "1891e3b5-f2de-48e2-9c30-b44c5f28237b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -401,7 +401,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4bcc4fa0-0492-4994-ad8c-77e9eaf70560")
+			(uuid "1f1cd527-9621-43c1-ae80-61ac63dd5692")
 			(effects
 				(font
 					(size 1 1)
@@ -422,7 +422,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bf14fef2-8c6f-431e-9b8a-61d4337d4b78")
+			(uuid "2219c6d9-7394-4abf-b382-20ec79d87927")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -432,7 +432,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0f53d3fc-7029-4007-91a1-7819e3b79318")
+			(uuid "b722a788-3fb8-4b4f-a260-fb383b490951")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -442,7 +442,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "15f37d4b-bb49-4911-8fb3-18b4d6f6d86a")
+			(uuid "971e922c-dc60-4fd9-875c-a1a466eb31a4")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -452,7 +452,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6b6b2f25-db2f-4d9e-864f-86ed47fdeed1")
+			(uuid "483456cb-49b8-442e-98fd-cef3a68bd44f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -484,7 +484,7 @@
 			(uuid "26638f12-3852-4b92-bc3a-f9a480c950c2")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -496,7 +496,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "0c6606ea-53d0-4554-810b-8ae41203a2bc")
 		(at 75.580135 59.562306 -54)
@@ -523,7 +523,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
@@ -535,7 +535,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
@@ -551,7 +551,7 @@
 			(at 0 0 306)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ff5658e-2064-46b6-a625-820ecf96c1d4")
+			(uuid "eaf2c117-c149-4746-9d73-0a2f9be308bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -564,7 +564,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "34869923-6bcc-4293-8ff9-57214ec481cc")
+			(uuid "b43356f0-aaaa-4950-8007-c2c7ac6e31bb")
 			(effects
 				(font
 					(size 1 1)
@@ -585,7 +585,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1d68df0b-6675-4ecf-97e4-22f29714f527")
+			(uuid "fed09cd5-a861-41eb-8b24-6a114fe0565b")
 		)
 		(fp_line
 			(start -0.8 -0.400001)
@@ -595,7 +595,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ccb5ea8c-2a31-469f-98fb-6b23507b8a42")
+			(uuid "f0e85d74-4d3a-4a90-ab63-629afdd118bc")
 		)
 		(fp_line
 			(start 0.8 0.400001)
@@ -605,7 +605,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1a43652a-4d17-4a64-b472-d22fcc914d67")
+			(uuid "ba9fe69c-ceb6-4be5-b053-189d73509b44")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -615,7 +615,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c4d121c4-afda-4850-ae78-c4f1e0b03585")
+			(uuid "c90460a8-f607-4ebf-ae3e-1415c7be29d9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 306)
@@ -647,7 +647,7 @@
 			(uuid "9cd45fbf-c2c3-4c4b-bed3-412c6e2e8e14")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -845,17 +845,15 @@
 			)
 		)
 	)
-	(footprint "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm"
+	(footprint "easyeda2kicad:QFN-28_L4.0-W4.0-P0.40-BL-EP"
 		(layer "F.Cu")
 		(uuid "0e69c9b7-f0b4-4b17-882d-4dee026a9705")
 		(at 65.0494 31.3944)
-		(descr "QFN, 28 Pin (http://www.issi.com/WW/pdf/31FL3731.pdf#page=21), generated with kicad-footprint-generator ipc_noLead_generator.py")
-		(tags "QFN NoLead")
 		(property "Reference" "U7"
-			(at 0 -3.3 0)
+			(at 0 -5.908 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bb67ea09-646f-4520-9bb5-919ae654ab7e")
+			(uuid "b86091df-79e2-4d20-aeb4-289de7ea7ae2")
 			(effects
 				(font
 					(size 1 1)
@@ -864,9 +862,9 @@
 			)
 		)
 		(property "Value" "IS31FL3731-QF"
-			(at 0 3.3 0)
+			(at 0 5.908 0)
 			(layer "F.Fab")
-			(uuid "825093bd-3520-477e-b9e2-307d02de246d")
+			(uuid "de0aa707-cbf7-4149-8a59-51166eb50dd8")
 			(effects
 				(font
 					(size 1 1)
@@ -878,7 +876,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c07c3492-f8df-4896-a57f-49ee5fad5656")
+			(uuid "56f31d1b-9066-4881-8668-04f5d8d7ab1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -890,7 +888,43 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56dc1f01-4586-4fda-8693-2538f4dfd5dd")
+			(uuid "f6ba510a-dd36-444d-99c3-4ee60cbfdc32")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C191206"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c45418bf-966e-4136-b857-b2ddede97e5c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "null"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccf565de-c04e-446b-bbf8-0ec5cf4fdd0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "null"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8dd0e398-1e3c-4364-8c42-cc712ca84540")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -904,216 +938,157 @@
 		(sheetfile "wotcher.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -2.6 -1.55)
-			(end -2.25 -1.55)
+			(start -2.08 -2.08)
+			(end -1.5 -2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "12f30eef-988e-4c35-b8b6-d9a9eda74cfe")
+			(layer "F.SilkS")
+			(uuid "301c402d-368b-466f-ab2a-c78869687d3c")
 		)
 		(fp_line
-			(start -2.6 1.55)
-			(end -2.6 -1.55)
+			(start -2.08 -1.5)
+			(end -2.08 -2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "3c05595b-d81e-460f-9c60-9cc709f5aed7")
+			(layer "F.SilkS")
+			(uuid "7af03ee3-28f8-4166-8c35-dfe8d02edf2a")
 		)
 		(fp_line
-			(start -2.25 -2.25)
-			(end -1.55 -2.25)
+			(start -2.08 1.5)
+			(end -2.08 2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "a1852a49-3651-4146-a6ba-fc7076fc94da")
+			(layer "F.SilkS")
+			(uuid "c0dcec3b-a5a1-43b4-91da-c1056aa2a595")
 		)
 		(fp_line
-			(start -2.25 -1.55)
-			(end -2.25 -2.25)
+			(start -2.08 2.08)
+			(end -1.5 2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "99f16c71-ff2c-448e-bed4-aab1a2db6a85")
+			(layer "F.SilkS")
+			(uuid "715a8d30-bda5-46a3-b024-27d0fe66efc1")
 		)
 		(fp_line
-			(start -2.25 1.55)
-			(end -2.6 1.55)
+			(start 2.08 -2.08)
+			(end 1.5 -2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "22f1bc9c-113b-4886-b56c-3f2af2065026")
+			(layer "F.SilkS")
+			(uuid "603ecb63-7850-4074-97b8-63cd7312ef37")
 		)
 		(fp_line
-			(start -2.25 2.25)
-			(end -2.25 1.55)
+			(start 2.08 -1.5)
+			(end 2.08 -2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "d160ba3d-d834-4dcc-8215-a36d6ad0afe9")
+			(layer "F.SilkS")
+			(uuid "66eff59d-5028-4984-a1de-148d8548d7e8")
 		)
 		(fp_line
-			(start -1.55 -2.6)
-			(end 1.55 -2.6)
+			(start 2.08 1.5)
+			(end 2.08 2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "4b972517-87cf-4162-834b-efaf7717b9db")
+			(layer "F.SilkS")
+			(uuid "8f97582c-ae5b-4bf4-96ba-8180d8b55f87")
 		)
 		(fp_line
-			(start -1.55 -2.25)
-			(end -1.55 -2.6)
+			(start 2.08 2.08)
+			(end 1.5 2.08)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "5161b13d-a133-4b72-8cd5-b5b65da90525")
+			(layer "F.SilkS")
+			(uuid "7472bcd1-ff3d-4ce0-8973-2e14164d8c05")
 		)
-		(fp_line
-			(start -1.55 2.25)
-			(end -2.25 2.25)
+		(fp_circle
+			(center -2 2)
+			(end -1.97 2)
 			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7240e7c4-3d4b-4595-a760-9573fab062b4")
-		)
-		(fp_line
-			(start -1.55 2.6)
-			(end -1.55 2.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "dbe471ed-d93b-4830-a452-aea2fe726735")
-		)
-		(fp_line
-			(start 1.55 -2.6)
-			(end 1.55 -2.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "baba6a83-88c8-4a90-916f-d756384388d9")
-		)
-		(fp_line
-			(start 1.55 -2.25)
-			(end 2.25 -2.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "457b1f74-d084-4b1a-8d85-c1611cce74e9")
-		)
-		(fp_line
-			(start 1.55 2.25)
-			(end 1.55 2.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "7c29daad-3724-4805-88fa-4ec4c83b0873")
-		)
-		(fp_line
-			(start 1.55 2.6)
-			(end -1.55 2.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5e22524e-5213-4858-8d85-f6e63db57904")
-		)
-		(fp_line
-			(start 2.25 -2.25)
-			(end 2.25 -1.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c35aaf67-1cbb-45e9-8404-bbe87685352d")
-		)
-		(fp_line
-			(start 2.25 -1.55)
-			(end 2.6 -1.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "4fe7b2b3-0636-45ec-b215-8a2f53c392da")
-		)
-		(fp_line
-			(start 2.25 1.55)
-			(end 2.25 2.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "72dfe8a3-da0a-4383-bf32-aaa938d22f51")
-		)
-		(fp_line
-			(start 2.25 2.25)
-			(end 1.55 2.25)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "16efe74a-b984-4948-8f18-089a695ca855")
-		)
-		(fp_line
-			(start 2.6 -1.55)
-			(end 2.6 1.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "a9ef17f8-46d7-45b3-bc68-d43568741491")
-		)
-		(fp_line
-			(start 2.6 1.55)
-			(end 2.25 1.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "568d0402-367b-4318-aba1-920bbd281448")
-		)
-		(fp_poly
-			(pts
-				(xy -1 -2) (xy 2 -2) (xy 2 2) (xy -2 2) (xy -2 -1)
-			)
-			(stroke
-				(width 0.1)
+				(width 0.06)
 				(type solid)
 			)
 			(fill no)
-			(layer "F.Fab")
-			(uuid "dfd01bad-db92-4b6d-9542-2918bfb588a7")
+			(layer "F.SilkS")
+			(uuid "d6fe8d3e-f96d-4c0c-953b-3bd0aceacb2f")
+		)
+		(fp_circle
+			(center -1.2 2.54)
+			(end -1.12 2.54)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "976adbdb-e5a5-49ca-a0e1-7fdc8f494798")
+		)
+		(fp_circle
+			(center -1.2 2.3)
+			(end -1.1 2.3)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "5bb25ba6-6e03-421c-b3ce-5040f7c1f417")
+		)
+		(fp_line
+			(start -2 -2)
+			(end 2 -2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d825a315-6e5e-481b-8619-af1784169f2e")
+		)
+		(fp_line
+			(start -2 2)
+			(end -2 -2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "31974193-d8cb-484d-aaa5-b0a26229c50a")
+		)
+		(fp_line
+			(start 2 -2)
+			(end 2 2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a6711292-4bab-4cf5-aa7d-5b90e6b2ab09")
+		)
+		(fp_line
+			(start 2 2)
+			(end -2 2)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d6b2566b-d4bb-48d9-8b29-2323856277fd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1126,309 +1101,253 @@
 				)
 			)
 		)
-		(pad "" smd roundrect
-			(at -0.575 -0.575)
-			(size 0.93 0.93)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "422d0f7b-af6d-4556-9a86-793c3b09283b")
-		)
-		(pad "" smd roundrect
-			(at -0.575 0.575)
-			(size 0.93 0.93)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "a6fb7cba-abc3-4ceb-8cfc-214fe6602008")
-		)
-		(pad "" smd roundrect
-			(at 0.575 -0.575)
-			(size 0.93 0.93)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "fa0a0423-35f9-4a8b-8bcc-5b97d2f3f6b4")
-		)
-		(pad "" smd roundrect
-			(at 0.575 0.575)
-			(size 0.93 0.93)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "7d180ba3-6a30-4712-890e-03d906ebe897")
-		)
-		(pad "1" smd roundrect
-			(at -1.9375 -1.2)
-			(size 0.825 0.2)
+		(pad "1" smd rect
+			(at -1.2 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 9 "CA5")
 			(pinfunction "CA9")
 			(pintype "bidirectional")
 			(uuid "9f645abc-9d7d-4cbe-9375-242ded83be3a")
 		)
-		(pad "2" smd roundrect
-			(at -1.9375 -0.8)
-			(size 0.825 0.2)
+		(pad "2" smd rect
+			(at -0.8 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 17 "ATtinyGND")
 			(pinfunction "VCC")
 			(pintype "power_in")
 			(uuid "c9d1051f-8760-4634-bfd2-be907f8b9189")
 		)
-		(pad "3" smd roundrect
-			(at -1.9375 -0.4)
-			(size 0.825 0.2)
+		(pad "3" smd rect
+			(at -0.4 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 29 "Net-(U5-PB3)")
 			(pinfunction "~{SDB}")
 			(pintype "input")
 			(uuid "a027a1ad-e60f-44d6-9836-cd3fdbf35f64")
 		)
-		(pad "4" smd roundrect
-			(at -1.9375 0)
-			(size 0.825 0.2)
+		(pad "4" smd rect
+			(at 0 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 28 "Net-(U5-PB2)")
 			(pinfunction "~{INTB}")
 			(pintype "open_collector")
 			(uuid "44b37dd4-b613-4a05-9f76-fbf7b507c250")
 		)
-		(pad "5" smd roundrect
-			(at -1.9375 0.4)
-			(size 0.825 0.2)
+		(pad "5" smd rect
+			(at 0.4 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 17 "ATtinyGND")
 			(pinfunction "GND")
 			(pintype "power_in")
 			(uuid "254a44d4-a470-41f2-85cc-33bd8d637692")
 		)
-		(pad "6" smd roundrect
-			(at -1.9375 0.8)
-			(size 0.825 0.2)
+		(pad "6" smd rect
+			(at 0.8 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 22 "Net-(U7-R_EXT)")
 			(pinfunction "R_EXT")
 			(pintype "passive")
 			(uuid "3b37b450-1735-4228-9f8b-01f23a8a4df8")
 		)
-		(pad "7" smd roundrect
-			(at -1.9375 1.2)
-			(size 0.825 0.2)
+		(pad "7" smd rect
+			(at 1.2 1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 3 "CB1")
 			(pinfunction "CB1")
 			(pintype "bidirectional")
 			(uuid "018afaff-5a43-466e-bad3-8d2e292cfbbf")
 		)
-		(pad "8" smd roundrect
-			(at -1.2 1.9375)
-			(size 0.2 0.825)
+		(pad "8" smd rect
+			(at 1.91 1.2)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 4 "CB2")
 			(pinfunction "CB2")
 			(pintype "bidirectional")
 			(uuid "203d986e-f963-4e91-a215-5ce291736bc2")
 		)
-		(pad "9" smd roundrect
-			(at -0.8 1.9375)
-			(size 0.2 0.825)
+		(pad "9" smd rect
+			(at 1.91 0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 6 "CB3")
 			(pinfunction "CB3")
 			(pintype "bidirectional")
 			(uuid "72914503-7cb3-448c-a0d6-d9a0abc8b047")
 		)
-		(pad "10" smd roundrect
-			(at -0.4 1.9375)
-			(size 0.2 0.825)
+		(pad "10" smd rect
+			(at 1.91 0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 8 "CB4")
 			(pinfunction "CB4")
 			(pintype "bidirectional")
 			(uuid "6415306d-8d8c-4ee6-a635-3d156c095e2f")
 		)
-		(pad "11" smd roundrect
-			(at 0 1.9375)
-			(size 0.2 0.825)
+		(pad "11" smd rect
+			(at 1.91 0)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 10 "CB5")
 			(pinfunction "CB5")
 			(pintype "bidirectional")
 			(uuid "efc426b3-b5a3-4a15-bd27-fbedac0b5778")
 		)
-		(pad "12" smd roundrect
-			(at 0.4 1.9375)
-			(size 0.2 0.825)
+		(pad "12" smd rect
+			(at 1.91 -0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 12 "CB6")
 			(pinfunction "CB6")
 			(pintype "bidirectional")
 			(uuid "46ca0115-91e9-4fef-884e-36830c49d95b")
 		)
-		(pad "13" smd roundrect
-			(at 0.8 1.9375)
-			(size 0.2 0.825)
+		(pad "13" smd rect
+			(at 1.91 -0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 14 "CB7")
 			(pinfunction "CB7")
 			(pintype "bidirectional")
 			(uuid "d8c3f00e-d0ea-41a9-8a5c-8395619f14a6")
 		)
-		(pad "14" smd roundrect
-			(at 1.2 1.9375)
-			(size 0.2 0.825)
+		(pad "14" smd rect
+			(at 1.91 -1.2)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 12 "CB6")
 			(pinfunction "CB8")
 			(pintype "bidirectional")
 			(uuid "31d0efdb-ffa4-441f-82c7-6b0afb5ee5e2")
 		)
-		(pad "15" smd roundrect
-			(at 1.9375 1.2)
-			(size 0.825 0.2)
+		(pad "15" smd rect
+			(at 1.2 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 12 "CB6")
 			(pinfunction "CB9")
 			(pintype "bidirectional")
 			(uuid "25e4f08d-c779-4da4-99df-5982f7fef7c7")
 		)
-		(pad "16" smd roundrect
-			(at 1.9375 0.8)
-			(size 0.825 0.2)
+		(pad "16" smd rect
+			(at 0.8 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 16 "Net-(U7-C_FILT)")
 			(pinfunction "C_FILT")
 			(pintype "passive")
 			(uuid "ccb21a7c-8cdb-42ef-a7ee-d4da8d1ebcde")
 		)
-		(pad "17" smd roundrect
-			(at 1.9375 0.4)
-			(size 0.825 0.2)
+		(pad "17" smd rect
+			(at 0.4 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 17 "ATtinyGND")
 			(pinfunction "IN")
 			(pintype "input")
 			(uuid "d6395793-0136-4dba-a32a-986b8f287b4d")
 		)
-		(pad "18" smd roundrect
-			(at 1.9375 0)
-			(size 0.825 0.2)
+		(pad "18" smd rect
+			(at 0 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 17 "ATtinyGND")
 			(pinfunction "AD")
 			(pintype "input")
 			(uuid "d97299aa-49e4-416b-b04e-7e1e8ee58c13")
 		)
-		(pad "19" smd roundrect
-			(at 1.9375 -0.4)
-			(size 0.825 0.2)
+		(pad "19" smd rect
+			(at -0.4 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 47 "Net-(U5-PB1)")
 			(pinfunction "SDA")
 			(pintype "bidirectional")
 			(uuid "9de32a06-81b9-40b5-9431-d84a10dda94f")
 		)
-		(pad "20" smd roundrect
-			(at 1.9375 -0.8)
-			(size 0.825 0.2)
+		(pad "20" smd rect
+			(at -0.8 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 46 "Net-(U3-SDO)")
 			(pinfunction "SCL")
 			(pintype "input")
 			(uuid "aa9b381e-ec1e-4b97-8fa2-f62ce2efb9e6")
 		)
-		(pad "21" smd roundrect
-			(at 1.9375 -1.2)
-			(size 0.825 0.2)
+		(pad "21" smd rect
+			(at -1.2 -1.91)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 2 "CA1")
 			(pinfunction "CA1")
 			(pintype "bidirectional")
 			(uuid "d8275d75-c3c0-4528-924f-9abc71c766c4")
 		)
-		(pad "22" smd roundrect
-			(at 1.2 -1.9375)
-			(size 0.2 0.825)
+		(pad "22" smd rect
+			(at -1.91 -1.2)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 1 "CA2")
 			(pinfunction "CA2")
 			(pintype "bidirectional")
 			(uuid "7f7245d2-a917-4830-bf77-b84593231938")
 		)
-		(pad "23" smd roundrect
-			(at 0.8 -1.9375)
-			(size 0.2 0.825)
+		(pad "23" smd rect
+			(at -1.91 -0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 5 "CA3")
 			(pinfunction "CA3")
 			(pintype "bidirectional")
 			(uuid "e097a821-7a89-495b-9e4d-2b4f310cd1ab")
 		)
-		(pad "24" smd roundrect
-			(at 0.4 -1.9375)
-			(size 0.2 0.825)
+		(pad "24" smd rect
+			(at -1.91 -0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 7 "CA4")
 			(pinfunction "CA4")
 			(pintype "bidirectional")
 			(uuid "ce8a04de-73a9-4927-b830-90697b79696a")
 		)
-		(pad "25" smd roundrect
-			(at 0 -1.9375)
-			(size 0.2 0.825)
+		(pad "25" smd rect
+			(at -1.91 0)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 9 "CA5")
 			(pinfunction "CA5")
 			(pintype "bidirectional")
 			(uuid "ac92dc36-4c71-41f5-bf16-f753d6964337")
 		)
-		(pad "26" smd roundrect
-			(at -0.4 -1.9375)
-			(size 0.2 0.825)
+		(pad "26" smd rect
+			(at -1.91 0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 11 "CA6")
 			(pinfunction "CA6")
 			(pintype "bidirectional")
 			(uuid "147660d7-592b-4beb-be85-9b96210d2916")
 		)
-		(pad "27" smd roundrect
-			(at -0.8 -1.9375)
-			(size 0.2 0.825)
+		(pad "27" smd rect
+			(at -1.91 0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 13 "CA7")
 			(pinfunction "CA7")
 			(pintype "bidirectional")
 			(uuid "14447f70-3378-4b32-b2c3-fce2d65f83b6")
 		)
-		(pad "28" smd roundrect
-			(at -1.2 -1.9375)
-			(size 0.2 0.825)
+		(pad "28" smd rect
+			(at -1.91 1.2)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 15 "CA8")
 			(pinfunction "CA8")
 			(pintype "bidirectional")
@@ -1436,17 +1355,15 @@
 		)
 		(pad "29" smd rect
 			(at 0 0)
-			(size 2.3 2.3)
-			(property pad_prop_heatsink)
-			(layers "F.Cu" "F.Mask")
+			(size 2.7 2.7)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 17 "ATtinyGND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(zone_connect 2)
 			(uuid "6e6c4d1b-1b4e-4e79-b1fd-aa28801a5cd3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm.step"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-28_L4.0-W4.0-H0.9-P0.40-BL-EP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1454,11 +1371,11 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 0 0 270)
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "0f2304ab-85f0-41bb-a34f-859561020246")
 		(at 75.580135 30.437694 54)
@@ -1485,7 +1402,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 54)
 			(layer "F.Fab")
 			(hide yes)
@@ -1497,7 +1414,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 54)
 			(layer "F.Fab")
 			(hide yes)
@@ -1513,7 +1430,7 @@
 			(at 0 0 54)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "22abe9d9-27fb-410b-9489-04d567977d68")
+			(uuid "9d3842c9-e9e3-4f5d-9873-9d51dc444574")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1526,7 +1443,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4e69267-61db-4f57-b1ae-f13d4a0b7e3c")
+			(uuid "738fd285-32a5-49cb-9b32-84cdcd149747")
 			(effects
 				(font
 					(size 1 1)
@@ -1547,7 +1464,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f4e195f0-42eb-4909-8eeb-ba961b3aa147")
+			(uuid "1957ab7f-1e0a-43fa-a7bd-fc08cf246742")
 		)
 		(fp_line
 			(start -0.8 0.400001)
@@ -1557,7 +1474,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f339f2ce-507d-4ef5-832e-15bbfd072196")
+			(uuid "ace6bcd8-6aba-49f3-aa22-ad87c732b05e")
 		)
 		(fp_line
 			(start 0.8 -0.400001)
@@ -1567,7 +1484,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9a12e153-abcc-41e5-a978-661ac9186b45")
+			(uuid "d62f86a4-1ce5-4af5-bb8d-07b95543bcd9")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -1577,7 +1494,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bf6a25f4-000b-4464-9d25-6f0d8588ba91")
+			(uuid "4415228e-de77-4c8a-837b-953c6d4ce686")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 54)
@@ -1609,7 +1526,7 @@
 			(uuid "621c1155-2b84-4578-a4f5-d8ae5bc1b3c2")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1631,7 +1548,7 @@
 			(at 0.000001 -0.999999 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f196b5e1-a343-4db6-9c7c-9a95be45585e")
+			(uuid "c79dcd17-c5fe-4bfa-be46-07d77a69e062")
 			(effects
 				(font
 					(size 1 1)
@@ -1642,7 +1559,7 @@
 		(property "Value" "1uF"
 			(at -0.000001 0.999999 0)
 			(layer "F.Fab")
-			(uuid "5e3ac647-2805-4e54-89aa-930005ecf6cc")
+			(uuid "a31c6c2f-8016-4262-adcc-eed98ae36075")
 			(effects
 				(font
 					(size 1 1)
@@ -1654,7 +1571,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8dc2aba6-78bb-4a1d-8880-0f60c0e2617d")
+			(uuid "d7a54d0e-8fa6-49d0-a96c-98865246451c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1666,7 +1583,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7edabdb-735c-4b98-a478-1e7af7f31aa5")
+			(uuid "6a9655cc-76b0-4bf2-91fb-3bae0b8e91d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +1862,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "190a2215-7ff3-4720-b7ef-f5d53a332044")
 		(at 56 60.588457 -120)
@@ -1972,7 +1889,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 240)
 			(layer "F.Fab")
 			(hide yes)
@@ -1984,7 +1901,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 240)
 			(layer "F.Fab")
 			(hide yes)
@@ -2000,7 +1917,7 @@
 			(at 0 0 240)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b27cd07-47ff-4a07-9850-be31cbd207b1")
+			(uuid "759c058e-1082-4cd1-9514-6fb9d5e743a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,7 +1930,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a945226c-4daf-4835-82de-fcecc92fc953")
+			(uuid "66bbe05f-bc5c-493c-a7f5-6573571f2b74")
 			(effects
 				(font
 					(size 1 1)
@@ -2034,7 +1951,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4f011b86-38b9-4293-a0a9-e7cdf78ec7cf")
+			(uuid "a335d364-0276-44c7-a894-f852fd992fb7")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -2044,7 +1961,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "55434ba5-d0ce-4ef7-846d-1eab397cd472")
+			(uuid "db7bfbd8-cfe0-46b4-b868-7ddc83283749")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -2054,7 +1971,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7a8c6932-8899-4fad-8d4d-6a496ce07daf")
+			(uuid "37f00399-3105-4f94-86da-495d98d8d2d2")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -2064,7 +1981,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2a8eff62-b11c-42bf-8af4-5e3616c7f3cb")
+			(uuid "4dfd79d3-9f7d-4f3b-9bb5-35202e9be009")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 240)
@@ -2096,7 +2013,7 @@
 			(uuid "fe0676a9-55d5-4dab-af2a-89564c8de76d")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2108,7 +2025,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "1966a09f-6dc8-4b4e-a931-a879bacfe569")
 		(at 57.67874 28.556182 114)
@@ -2135,7 +2052,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 114)
 			(layer "F.Fab")
 			(hide yes)
@@ -2147,7 +2064,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 114)
 			(layer "F.Fab")
 			(hide yes)
@@ -2163,7 +2080,7 @@
 			(at 0 0 114)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c11f00c8-f483-436e-81d0-17c031785be8")
+			(uuid "e2737234-0288-4e23-9ea4-2c5a8993879a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2176,7 +2093,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1eaf236d-ed8f-46dc-8db6-58cfaa761224")
+			(uuid "ab8c05cc-5003-4151-8464-d1c1cb96fa11")
 			(effects
 				(font
 					(size 1 1)
@@ -2197,7 +2114,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9bd92277-ce3d-4d9d-8775-9ac7d71ea52a")
+			(uuid "881a809d-f645-4e1b-b4cd-84d46ccb2e48")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -2207,7 +2124,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fefbe36a-c9f5-4ede-9eee-45e0621b3e56")
+			(uuid "fbe0ffac-2c52-4dac-8b61-9e5db8039cfe")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -2217,7 +2134,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "72a0d51b-cb82-4663-99b6-ab53f9ef186a")
+			(uuid "85bb283e-ddd2-4506-8a2f-86cbae63a476")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -2227,7 +2144,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9fbb2349-dd8b-42ee-97f9-b3aa13923a01")
+			(uuid "78fe8af2-fd95-43b3-be53-40aae848a186")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 114)
@@ -2259,7 +2176,7 @@
 			(uuid "6ac21e11-fdb9-4713-83f3-0422da65aa42")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2271,7 +2188,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "1f26ba86-e977-4497-ba06-f6091ac2f103")
 		(at 52.955649 31.623393 132)
@@ -2298,7 +2215,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 132)
 			(layer "F.Fab")
 			(hide yes)
@@ -2310,7 +2227,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 132)
 			(layer "F.Fab")
 			(hide yes)
@@ -2326,7 +2243,7 @@
 			(at 0 0 132)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "115c988f-c0ea-482e-b8d1-6ea201440ec0")
+			(uuid "65b7dbb6-1036-45af-a66e-696422bfebe4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2339,7 +2256,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "120682f8-4129-48d3-a789-728cc6c31898")
+			(uuid "e9fad3f6-828a-4b50-bb45-6868175db824")
 			(effects
 				(font
 					(size 1 1)
@@ -2360,7 +2277,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c6ba8d40-2ae1-4c21-955c-14f99efe5f4f")
+			(uuid "d38541a9-3cbf-4dc9-a774-3c7211b3238c")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -2370,7 +2287,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e2a896ca-2773-4c05-b316-beb9aa311fbb")
+			(uuid "9649da60-ecbd-44be-a4d8-cb9b09a8d99f")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -2380,7 +2297,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ea8cb93a-59ae-4579-8d4b-b2eeb1e42258")
+			(uuid "593e2c3c-2f30-4a95-bc90-906604d25868")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -2390,7 +2307,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "10b8c657-4401-4cbd-94c7-feac430d86f1")
+			(uuid "13a72103-01a1-4f8a-bc2a-9178d8268559")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 132)
@@ -2422,7 +2339,7 @@
 			(uuid "2f036e96-d2a7-4d58-8d34-b48088fbe7ba")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2620,7 +2537,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "2051a7aa-5487-4d11-9ff9-26335a576bb0")
 		(at 56 29.411543 120)
@@ -2647,7 +2564,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
@@ -2659,7 +2576,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
@@ -2675,7 +2592,7 @@
 			(at 0 0 120)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "02df79c3-0abb-4b10-884b-17317a182743")
+			(uuid "c322d97f-d4b2-4e08-9ec1-104133e20c89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2688,7 +2605,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64d97228-1f65-40ee-94f7-dcf706ad5a03")
+			(uuid "cf6f5b25-76aa-437b-a742-af6bc534be68")
 			(effects
 				(font
 					(size 1 1)
@@ -2709,7 +2626,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4a2f9747-ea46-45f5-a18f-9cd11c206f53")
+			(uuid "55aee9ee-c86b-4245-b77c-f4e76674075c")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -2719,7 +2636,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "02191aa6-3b85-4d86-a630-b2f4e25f1229")
+			(uuid "16bb0033-07da-4ed1-8e46-be09f9ccf439")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -2729,7 +2646,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "973640d6-9d64-4b42-8d06-abc81d300406")
+			(uuid "8c11ae3d-67a3-40f7-b543-31b7d65fb738")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -2739,7 +2656,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f268e6f6-cfcb-46da-a952-f9253152fde4")
+			(uuid "b01dc245-9bf6-416f-befe-d57e0cb1cf92")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 120)
@@ -2771,7 +2688,7 @@
 			(uuid "ed4d0655-5dcf-4202-891d-8ff66acd695a")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2783,7 +2700,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "226c07bf-4027-4ae6-8bac-f34496b43075")
 		(at 47.880983 39.437694 162)
@@ -2810,7 +2727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 162)
 			(layer "F.Fab")
 			(hide yes)
@@ -2822,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 162)
 			(layer "F.Fab")
 			(hide yes)
@@ -2838,7 +2755,7 @@
 			(at 0 0 162)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79644ff3-b746-4820-9d4a-aac39ac0db6f")
+			(uuid "58ef4662-7645-4af1-90ca-4bc94061764b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,7 +2768,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4ee35465-776c-46e5-9971-66166b2ccb24")
+			(uuid "a9f18228-9580-4a68-8b77-60121400cb46")
 			(effects
 				(font
 					(size 1 1)
@@ -2872,7 +2789,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "de14bc4f-932d-4203-b43a-43a92bea0854")
+			(uuid "0da47ebe-8e73-4730-b513-ec6ca3b91dbd")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -2882,7 +2799,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a4487671-64a5-450f-89b7-5b6a335e2905")
+			(uuid "ab764c87-0578-4bb1-af82-ef125705af17")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -2892,7 +2809,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d6a29511-52d3-451b-9315-15dc7946ca87")
+			(uuid "a4b996db-37e7-4ef3-b8be-d4a872050f28")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -2902,7 +2819,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fc7bf7fb-3da9-48f4-b793-43c99e246a4a")
+			(uuid "f9b542a8-f9de-4f01-88ca-427a91489a34")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 162)
@@ -2934,7 +2851,7 @@
 			(uuid "2b423b2e-0b6c-43d7-ba9f-c66cf0698510")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2946,7 +2863,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "24242833-7814-470b-bd9a-1735c669f8bd")
 		(at 50.437694 55.580135 -144)
@@ -2973,7 +2890,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 216)
 			(layer "F.Fab")
 			(hide yes)
@@ -2985,7 +2902,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 216)
 			(layer "F.Fab")
 			(hide yes)
@@ -3001,7 +2918,7 @@
 			(at 0 0 216)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce6e3ba4-4f00-4281-9deb-7cf7fdb7fbaf")
+			(uuid "b3e3dac4-43ba-43d2-a006-00dd06a24d46")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,7 +2931,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "301eb434-2641-4ccf-a06c-04f2893759c7")
+			(uuid "133d0ba7-0d87-4988-8123-a5eb5ceb1a7f")
 			(effects
 				(font
 					(size 1 1)
@@ -3035,7 +2952,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "937966c4-2b1a-47ae-9a8c-d16a2f06d2b1")
+			(uuid "63dd06ec-2e10-413a-9037-d713b8a5f7df")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -3045,7 +2962,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c7f05f9c-8ad8-4ede-b40a-72c007d34453")
+			(uuid "3de843f3-6269-4204-ba8d-55fb3a45c3c1")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -3055,7 +2972,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "45e9cb61-57e2-471f-b208-fc441c068352")
+			(uuid "be912ed2-85a8-49e5-bb2b-4644730ab388")
 		)
 		(fp_line
 			(start -0.8 -0.400001)
@@ -3065,7 +2982,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "16b2b754-4412-4aa7-87cb-5ab498801f14")
+			(uuid "b186f041-d915-4738-a7b0-c28de6d40b66")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 216)
@@ -3097,7 +3014,7 @@
 			(uuid "d2a8ee4a-5c34-4ab2-a496-4323b83deddc")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3109,7 +3026,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "274be09b-c5e5-4e99-9d47-3ec02d0d16dd")
 		(at 54.419865 30.437694 126)
@@ -3136,7 +3053,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 126)
 			(layer "F.Fab")
 			(hide yes)
@@ -3148,7 +3065,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 126)
 			(layer "F.Fab")
 			(hide yes)
@@ -3164,7 +3081,7 @@
 			(at 0 0 126)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82fd6f72-6b35-42d5-b6df-7744433264e5")
+			(uuid "cdb43d34-2e05-43a0-a8ce-9429e95ac227")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3177,7 +3094,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5966032-20da-4ffb-80fb-999b1c5cb580")
+			(uuid "b8604733-9b78-4241-8b9d-cfd667eb5fca")
 			(effects
 				(font
 					(size 1 1)
@@ -3198,7 +3115,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2c863e32-96e4-4efd-a9db-390e95a94fa0")
+			(uuid "b51c1d63-2396-4e68-a88c-356f9c086b1e")
 		)
 		(fp_line
 			(start 0.8 0.400001)
@@ -3208,7 +3125,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e90f6cdc-67db-4f7e-8b88-982be0e04ec7")
+			(uuid "76f8830b-7df9-4e0f-883d-685c041250d8")
 		)
 		(fp_line
 			(start -0.8 -0.400001)
@@ -3218,7 +3135,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6daec6dd-b5a9-45cf-b7a9-20beb889c864")
+			(uuid "41630cd6-d63e-46aa-bc7a-259901fc9846")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -3228,7 +3145,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9fabf538-31d3-4381-80b0-4b1f877886f9")
+			(uuid "ead505dc-4c99-4709-8899-4a493cc51eb1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 126)
@@ -3260,7 +3177,7 @@
 			(uuid "481aee05-3cb2-4d87-b6ef-d509da2a582d")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3282,7 +3199,7 @@
 			(at 0 -1.05 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5f8b3fb3-bf9a-40f3-9df5-ea0c2600f56d")
+			(uuid "75b77cc8-b956-45f1-8cbd-f701766768e7")
 			(effects
 				(font
 					(size 1 1)
@@ -3293,7 +3210,7 @@
 		(property "Value" "4.7k"
 			(at 0 1.05 180)
 			(layer "F.Fab")
-			(uuid "2d9786b2-ea7c-4eb7-903f-7fbdd21a9944")
+			(uuid "cc48b5cc-2935-4473-afa1-70f9d628780b")
 			(effects
 				(font
 					(size 1 1)
@@ -3305,7 +3222,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df17bca2-c9af-427b-9e6f-f3b139b63e0b")
+			(uuid "3361f280-2314-445d-b5ff-0ccbd6badfc5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3317,7 +3234,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93370b7c-cee8-4989-b0fd-64d5d2313ca5")
+			(uuid "6a8d5de9-9ff7-4800-8825-4321dfed8e54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3418,7 +3335,7 @@
 			(at 0 -1.05 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "dd1b0768-2591-47b3-a0fa-464ffc2b09c3")
+			(uuid "e96f1e72-3194-4b58-adcf-1bdcba378619")
 			(effects
 				(font
 					(size 1 1)
@@ -3429,7 +3346,7 @@
 		(property "Value" "20k"
 			(at 0 1.05 90)
 			(layer "F.Fab")
-			(uuid "7d6a2321-0cba-4a5d-a7d1-35a65dbdd523")
+			(uuid "d18cd682-5460-4a9b-a9b6-5a963e61eb1d")
 			(effects
 				(font
 					(size 1 1)
@@ -3441,7 +3358,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b0d37cc9-faef-4aa6-8884-76e74831b8d8")
+			(uuid "cb8e79d3-0ed6-4e18-93d8-a80d38abd68a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,7 +3370,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "193a84fa-a27b-45a0-b5ae-b675deadf2d9")
+			(uuid "9f06c920-760a-4f39-8a9c-c44409b07666")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,7 +3647,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "2bbf0bc0-aa95-4fef-980b-82fc424bf66a")
 		(at 66.881512 27.098606 84)
@@ -3757,7 +3674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 84)
 			(layer "F.Fab")
 			(hide yes)
@@ -3769,7 +3686,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 84)
 			(layer "F.Fab")
 			(hide yes)
@@ -3785,7 +3702,7 @@
 			(at 0 0 84)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47b911ff-561a-4009-82f2-2cf984ee04c1")
+			(uuid "9163fdab-1e4e-45b9-8968-8f744e0de304")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3798,7 +3715,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebc55679-fc82-4dd6-a05c-ba068ec69a1a")
+			(uuid "f3009d38-de1b-4f59-8318-3c031bbd5914")
 			(effects
 				(font
 					(size 1 1)
@@ -3819,7 +3736,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "84931d9f-6418-4d2c-98ae-dd42ab17788a")
+			(uuid "aab9e498-919e-4aaf-a46c-927b3f3b4962")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -3829,7 +3746,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "152d59f8-3d50-44e5-9f0b-5ef8689d6995")
+			(uuid "84abb9cc-1652-47c8-8392-1e9aa3d9712a")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -3839,7 +3756,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f595055f-8965-4eac-b491-c12eaf27ae00")
+			(uuid "4aa1d8aa-fd6c-4d6c-939f-a90566c50fed")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -3849,7 +3766,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "14509591-5d67-458c-8d21-d57572474627")
+			(uuid "ef1a00f7-c4ea-40b9-bddc-6272bb6edd3e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 84)
@@ -3881,7 +3798,7 @@
 			(uuid "b72017c3-fa38-442c-805f-271d63a50ca8")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3893,7 +3810,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "2ec79aa5-d8cc-4cd9-a9b1-8f5eaa3968a1")
 		(at 47.393343 41.25759 168)
@@ -3920,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 168)
 			(layer "F.Fab")
 			(hide yes)
@@ -3932,7 +3849,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 168)
 			(layer "F.Fab")
 			(hide yes)
@@ -3948,7 +3865,7 @@
 			(at 0 0 168)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b7d5ac7-6207-435f-8205-6a4c42c72488")
+			(uuid "3652599a-be68-44d2-ae8e-39a5765d89f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3961,7 +3878,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4be8109-433f-4f25-a6df-e32ed82cbf3f")
+			(uuid "fded9c9b-d9da-4907-9a93-cb3246964288")
 			(effects
 				(font
 					(size 1 1)
@@ -3982,7 +3899,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2d6973f1-8739-4d76-aeeb-faff579ba152")
+			(uuid "47c98d38-7300-43d8-8db5-663777a48e68")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -3992,7 +3909,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "48310715-b14d-43f2-ae54-efcc21975c51")
+			(uuid "3002e5da-c0fb-425d-b772-deab667e96f3")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4002,7 +3919,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4e647d14-ef82-41e2-8dfd-4ceee153891b")
+			(uuid "fe62e0dc-c07a-4131-badd-6a8ad55fe565")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -4012,7 +3929,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "23323704-d9c2-4170-bd87-b124cb7b7c28")
+			(uuid "809bdb4a-7167-40d6-a772-2570b86fd013")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 168)
@@ -4044,7 +3961,7 @@
 			(uuid "8c548a5d-4892-4d1f-9807-f49f279eb3de")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4056,7 +3973,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "370e0371-3335-444c-9e1a-0f826e9f7d53")
 		(at 47.393343 48.74241 -168)
@@ -4083,7 +4000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 192)
 			(layer "F.Fab")
 			(hide yes)
@@ -4095,7 +4012,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 192)
 			(layer "F.Fab")
 			(hide yes)
@@ -4111,7 +4028,7 @@
 			(at 0 0 192)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a7cd413-b7b0-498a-924f-69232b54c9cf")
+			(uuid "b76a91c5-b25f-4aea-b731-bc55e54f307a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4124,7 +4041,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27d6209f-49fd-468a-bb67-3f8d6f86a50e")
+			(uuid "474af8b8-f9c9-44da-add1-34ebbcaaa5f9")
 			(effects
 				(font
 					(size 1 1)
@@ -4145,7 +4062,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "eea61f4b-5768-4457-baca-541edbc165f4")
+			(uuid "d87b64fd-0087-4941-bb01-8426b8152bd7")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -4155,7 +4072,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "649e295c-b448-40fa-b234-19030b64233c")
+			(uuid "9dfc42b4-6082-4f0f-b88d-e70a93a10f00")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -4165,7 +4082,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "932f23f8-1d9f-46ab-9791-e13d60fcd0ac")
+			(uuid "98257cbb-ee2d-4c6c-9544-fc32d674e37c")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4175,7 +4092,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7ac74e08-5f91-4f99-8a89-069bb7a2b114")
+			(uuid "bf66cfb1-0ebd-440e-96b6-c73e2016d0cb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 192)
@@ -4207,7 +4124,7 @@
 			(uuid "db139c8c-c095-47c2-9a44-6f02e3619299")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4219,7 +4136,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "37155a43-af67-40b6-bded-80a62a07b3eb")
 		(at 70.562306 62.119017 -72)
@@ -4246,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 288)
 			(layer "F.Fab")
 			(hide yes)
@@ -4258,7 +4175,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 288)
 			(layer "F.Fab")
 			(hide yes)
@@ -4274,7 +4191,7 @@
 			(at 0 0 288)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0586b621-cfc6-418f-a32d-8dd3b7da1a48")
+			(uuid "9d2ad593-ca6b-4348-b0b0-f92423067a95")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4287,7 +4204,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "488f20a8-70bd-4db3-ba5d-4d06e7b06232")
+			(uuid "85561e3c-e316-46f1-be07-c708df36c921")
 			(effects
 				(font
 					(size 1 1)
@@ -4308,7 +4225,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d8f39e56-83f6-4751-aac2-c8070809d983")
+			(uuid "11c00d93-d2b2-41cb-aea1-2af034b14d52")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -4318,7 +4235,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7e06ca77-15d9-4ab3-a92c-b5ec7ee6a364")
+			(uuid "e0b82de2-a942-4c7d-a8ac-31006db4aadf")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4328,7 +4245,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "785a7248-2f00-4a8e-9047-a40be5231049")
+			(uuid "1786fa94-2d41-4fb4-98f1-e457d03362e1")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -4338,7 +4255,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9b03918a-d8ce-4f8d-af96-da3b4bbc362d")
+			(uuid "9c6b2e84-2d75-431b-8eb5-cca2bdd3bcba")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 288)
@@ -4370,7 +4287,7 @@
 			(uuid "6b99082e-d78b-4e62-9115-ed04b66a7f27")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4382,7 +4299,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "3728c854-a990-4424-a86c-39d663a209f5")
 		(at 61.25759 62.606657 -102)
@@ -4409,7 +4326,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 258)
 			(layer "F.Fab")
 			(hide yes)
@@ -4421,7 +4338,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 258)
 			(layer "F.Fab")
 			(hide yes)
@@ -4437,7 +4354,7 @@
 			(at 0 0 258)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8bac43e-0453-4494-9554-d6cb191d1c34")
+			(uuid "67fe1a3b-6d41-4be6-920d-93c5affdce50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4450,7 +4367,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9741b5ba-d601-4772-87de-298348915302")
+			(uuid "bc8afafe-2495-4c67-bc79-186feeabad1c")
 			(effects
 				(font
 					(size 1 1)
@@ -4471,7 +4388,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5695ade1-5dc3-420e-9214-ff93ee28a98f")
+			(uuid "f120dec0-5bd1-408a-bdab-fffcc0e60d25")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -4481,7 +4398,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "abf99e28-87ea-41e5-a96f-355902664a13")
+			(uuid "0353c016-dfd2-4976-a517-d05f6ef5e817")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -4491,7 +4408,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b26bdd5f-f515-444c-8f2f-44ae52830f8d")
+			(uuid "88fc186e-b67b-42a0-b8d4-4cadea771912")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4501,7 +4418,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e13c07eb-5763-4be8-ae7d-b293e2ca9be1")
+			(uuid "8631d7af-f9ce-4a3b-81aa-e2cf2f51d832")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 258)
@@ -4533,7 +4450,7 @@
 			(uuid "fb19dacf-ecca-4416-90b5-8b8f1732dd8a")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4545,7 +4462,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "387aaeea-0373-4c71-a386-256003768737")
 		(at 54.419865 59.562306 -126)
@@ -4572,7 +4489,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 234)
 			(layer "F.Fab")
 			(hide yes)
@@ -4584,7 +4501,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 234)
 			(layer "F.Fab")
 			(hide yes)
@@ -4600,7 +4517,7 @@
 			(at 0 0 234)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94dc6a79-60ed-4425-8df4-a38ed2087b39")
+			(uuid "d35310a7-f391-4082-89e9-f5e5a163eea4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4613,7 +4530,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acc62490-4f24-44e7-8285-00f7a0ee0312")
+			(uuid "d2f2f9ab-f8c4-4d4c-8654-0c85dd63b816")
 			(effects
 				(font
 					(size 1 1)
@@ -4634,7 +4551,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "71b7ea7b-d5ce-4262-bcd3-f182f5653444")
+			(uuid "e94f21fc-aaf6-4a6d-80e4-5b7a39cc7563")
 		)
 		(fp_line
 			(start 0.8 -0.400001)
@@ -4644,7 +4561,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "97195739-2621-436e-b747-730a7b1f296b")
+			(uuid "2ec9c65a-5882-4e42-b452-e017ed9217ad")
 		)
 		(fp_line
 			(start -0.8 0.400001)
@@ -4654,7 +4571,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c8d8fcc8-3ebd-453b-8afd-50dd04bdac2c")
+			(uuid "d4a1f1ff-53af-4807-b535-da7a57f3e46d")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -4664,7 +4581,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b0d9b968-890f-4ffe-af84-ea0afb9659cb")
+			(uuid "768975c6-a926-4058-a16b-233e6ba6a544")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 234)
@@ -4696,7 +4613,7 @@
 			(uuid "c63e13c2-80c4-4319-8bf7-4d48591df2a9")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4972,7 +4889,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "3af3ded5-b545-4183-98c8-54dcf343e5e4")
 		(at 72.32126 61.443818 -66)
@@ -4999,7 +4916,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 294)
 			(layer "F.Fab")
 			(hide yes)
@@ -5011,7 +4928,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 294)
 			(layer "F.Fab")
 			(hide yes)
@@ -5027,7 +4944,7 @@
 			(at 0 0 294)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d90b7aa-8c2f-4756-b123-d9e58ea478b8")
+			(uuid "3da7dd1a-1f48-4c21-8c56-3830efe9f51e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5040,7 +4957,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a57ad15d-4404-477e-aa9b-e7c2e660270d")
+			(uuid "611336be-a1af-4e02-a1e8-bc8a99748fa8")
 			(effects
 				(font
 					(size 1 1)
@@ -5061,7 +4978,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2852267e-9d88-49cf-aef6-36bbb19fab00")
+			(uuid "2032275d-d777-42f5-b0e2-4ab4f7ff838d")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -5071,7 +4988,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "73aecf1f-1d39-4d42-9b80-738aa63073c0")
+			(uuid "0f067f46-ef0c-492e-9f78-bc05069dfd91")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -5081,7 +4998,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7df08e3d-3947-4a67-b078-c0c13f986bea")
+			(uuid "2869a8c3-6702-4c1d-9bbb-2125e1f2cebd")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -5091,7 +5008,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "769526cb-dfe3-43d7-b8d4-40d2411db4f2")
+			(uuid "ea78b2d2-4e6a-4b7f-b7fc-45bfc402ab6e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 294)
@@ -5123,7 +5040,7 @@
 			(uuid "77f7e154-14fc-4108-a14b-5be1c206d0b5")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5321,7 +5238,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "41ef2e83-3161-4a49-b1f5-dd405c8147c5")
 		(at 68.74241 62.606657 -78)
@@ -5348,7 +5265,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 282)
 			(layer "F.Fab")
 			(hide yes)
@@ -5360,7 +5277,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 282)
 			(layer "F.Fab")
 			(hide yes)
@@ -5376,7 +5293,7 @@
 			(at 0 0 282)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a41ac0f6-0c8c-4ee9-acd5-cf383cc28089")
+			(uuid "14299453-49ec-4be4-bddb-6fc871febfff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,7 +5306,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76cfe356-e2f0-4ef8-bd1a-ca4ef6891d39")
+			(uuid "122c44f8-8c10-4175-8ebc-7733e36587c7")
 			(effects
 				(font
 					(size 1 1)
@@ -5410,7 +5327,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "37798852-462f-4c12-9789-4cf96b586f04")
+			(uuid "9592e709-ada1-4fcf-bfe5-2b4df6536dbf")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -5420,7 +5337,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8e5c6978-c2df-4803-a3e0-d5c5cfb6475e")
+			(uuid "93c147df-4941-48bf-a157-cc5d3416bb9c")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -5430,7 +5347,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "69cb7eff-7079-44ec-974d-4f0d8184fc02")
+			(uuid "22ae7b20-f6d8-470a-afa0-786569169c99")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -5440,7 +5357,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "73f1492e-337e-4275-a2fa-6b85249529fb")
+			(uuid "f3aafb57-3cf8-4904-8a0e-77163d77b98f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 282)
@@ -5472,7 +5389,7 @@
 			(uuid "4119a57a-51db-40bb-badc-5ed7ddda9a44")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5670,7 +5587,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "48aeca37-3dbb-44e4-bc2b-b0662aa2a8c5")
 		(at 63.118488 62.901394 -96)
@@ -5697,7 +5614,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 264)
 			(layer "F.Fab")
 			(hide yes)
@@ -5709,7 +5626,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 264)
 			(layer "F.Fab")
 			(hide yes)
@@ -5725,7 +5642,7 @@
 			(at 0 0 264)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b9ef788-cb4b-4af5-8f48-852d96435ddd")
+			(uuid "d0459329-c356-4adc-8ce0-2c7ad14f5e0d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5738,7 +5655,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c1edd2f9-800f-49d7-aff4-f448137d9726")
+			(uuid "168e76fa-72e9-47d6-b7d7-6a10923039ef")
 			(effects
 				(font
 					(size 1 1)
@@ -5759,7 +5676,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "35359855-2fcb-4cbd-a18b-b837762dcbc7")
+			(uuid "1895bd40-639e-40dd-925c-c826ef7f4e3c")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -5769,7 +5686,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d27a72b9-66d9-4245-975f-d2ab51440b97")
+			(uuid "e17d45f9-0b75-4e1c-9626-fa3e1a100585")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -5779,7 +5696,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7c815c37-1fc0-4347-bafa-8a74b7f0c041")
+			(uuid "0de44a77-3c2b-4c8e-b326-d9baa1a79a05")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -5789,7 +5706,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "43885e10-d385-42b6-9ad4-b616b23a4928")
+			(uuid "e7b62f51-b7f2-4d2c-be74-bf5c6f040b02")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 264)
@@ -5821,7 +5738,7 @@
 			(uuid "4d106c80-f6f9-4199-a24f-8b31e3739847")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5833,7 +5750,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "523b32ae-a16a-40cf-a92e-5e2bf757df09")
 		(at 52.955649 58.376607 -132)
@@ -5860,7 +5777,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 228)
 			(layer "F.Fab")
 			(hide yes)
@@ -5872,7 +5789,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 228)
 			(layer "F.Fab")
 			(hide yes)
@@ -5888,7 +5805,7 @@
 			(at 0 0 228)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21a438ce-b107-4882-bdda-989759d0c6dc")
+			(uuid "830041e2-929f-46e0-ab4b-334773df5277")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5901,7 +5818,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e76c3ceb-4284-41a6-895f-875760526a01")
+			(uuid "bde47ea6-1372-4792-a649-20fa7033418d")
 			(effects
 				(font
 					(size 1 1)
@@ -5922,7 +5839,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6b3fa980-af44-4b68-a5ce-d665b411e704")
+			(uuid "01f07547-8532-4e2f-bd19-0718ba95be0d")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -5932,7 +5849,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d8b98cb4-becf-4724-8766-124503f846ef")
+			(uuid "7de06c63-3fce-4c4b-bc3a-93a2e66d602c")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -5942,7 +5859,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "35772248-9a91-4bb0-b890-25be72f2ac5c")
+			(uuid "23468ac9-2e81-4bbe-a111-b115f5caf3a6")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -5952,7 +5869,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a7780c28-dfbe-49e0-970a-979c860ca386")
+			(uuid "8f0c2a2a-c401-48b7-8a6a-8c3ac761062b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 228)
@@ -5984,7 +5901,7 @@
 			(uuid "509381a1-bb90-4fa1-baca-7da3c3af38f6")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6182,7 +6099,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "5506ce58-ae49-45a9-8a6c-a9ce9829e6c4")
 		(at 50.437694 34.419865 144)
@@ -6209,7 +6126,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 144)
 			(layer "F.Fab")
 			(hide yes)
@@ -6221,7 +6138,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 144)
 			(layer "F.Fab")
 			(hide yes)
@@ -6237,7 +6154,7 @@
 			(at 0 0 144)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8e91193-4cbf-4e69-af38-6103f8e66141")
+			(uuid "510416e5-c400-4566-88df-64b0d1223dd7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6250,7 +6167,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa44ba45-32b8-4f83-9976-d7856202a6c8")
+			(uuid "da842f31-5757-4cac-a734-62e42341ff2f")
 			(effects
 				(font
 					(size 1 1)
@@ -6271,7 +6188,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ecc98d88-e1a8-4238-af2d-1bca27c36913")
+			(uuid "054d4402-0bcd-4ae6-a170-ee13376e6298")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -6281,7 +6198,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2f443bf7-18f5-4ea9-80c4-28a1c92c07d4")
+			(uuid "6ab53c65-d722-438f-b2b5-7121a945f6a0")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -6291,7 +6208,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "70d5eb72-2ac6-49c7-bc1c-49e1ec81e6ec")
+			(uuid "fb6bc4fb-e5e7-4c14-9c45-a645e95f9348")
 		)
 		(fp_line
 			(start -0.8 0.400001)
@@ -6301,7 +6218,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "86efa40f-2604-4cde-934e-e49609283468")
+			(uuid "ef5890f7-62b3-4698-8c2e-5efd31873ba9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 144)
@@ -6333,7 +6250,7 @@
 			(uuid "816452d8-abd5-46bf-8d1f-1c066b1578d3")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6345,7 +6262,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "59b21bf9-6aba-45c5-a7dd-8cd14f3f7cce")
 		(at 78.376607 57.044351 -42)
@@ -6372,7 +6289,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 318)
 			(layer "F.Fab")
 			(hide yes)
@@ -6384,7 +6301,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 318)
 			(layer "F.Fab")
 			(hide yes)
@@ -6400,7 +6317,7 @@
 			(at 0 0 318)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa2d3583-dcf3-4eca-90d7-f44ee4b4c33c")
+			(uuid "2a905006-4805-4e61-aa0d-3a5c4fb43b5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6413,7 +6330,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d23e43f-0666-4076-8682-a3662b3f44cb")
+			(uuid "7242849f-ee33-475e-8a54-768f17bd2963")
 			(effects
 				(font
 					(size 1 1)
@@ -6434,7 +6351,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2610d03a-bc7e-45e9-a85e-52ab4b6fa695")
+			(uuid "8b402c7c-e998-4a6e-a703-58e2f19d7510")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -6444,7 +6361,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4e7736b6-f667-405a-bce5-027a35931c6c")
+			(uuid "3d65090c-7a28-47c6-a6f7-421bdd0716dc")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -6454,7 +6371,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6d7b71d9-bc5c-49ad-8c72-fc22863d272c")
+			(uuid "ab749ee6-b382-4374-b903-32eed0dbdfb9")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -6464,7 +6381,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "170b6a90-b53b-4f31-b58a-982caf9e2f9d")
+			(uuid "82ad35db-19c9-4188-a267-c664d3185e58")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 318)
@@ -6496,7 +6413,7 @@
 			(uuid "d57ae8b1-82e5-43ed-b163-66f053b6d063")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6518,7 +6435,7 @@
 			(at 0.000001 -0.999999 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b4149724-a9d2-4b2e-b105-021fccc02ad1")
+			(uuid "3ed16d70-c7f4-4b16-aa8b-f18e29b1f45a")
 			(effects
 				(font
 					(size 1 1)
@@ -6529,7 +6446,7 @@
 		(property "Value" "0.1uF"
 			(at -0.000001 0.999999 90)
 			(layer "F.Fab")
-			(uuid "a26cbc2a-2e9b-48ef-ba21-064a4a36fa99")
+			(uuid "c0cdb912-8eec-4cbf-b93d-88719f26d27e")
 			(effects
 				(font
 					(size 1 1)
@@ -6541,7 +6458,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e451a8dc-e08e-47ac-9657-2527b0392c76")
+			(uuid "a3d0eb75-3f98-4a58-b9e3-c46a322fa09d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6553,7 +6470,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99de3758-2b29-49cb-85a6-6dde32516fc6")
+			(uuid "19580cfe-1394-4194-a8f3-cd6e098ea522")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6646,7 +6563,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "5aa67b09-1bda-423c-a997-cce5ddbdc291")
 		(at 47.098606 46.881512 -174)
@@ -6673,7 +6590,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 186)
 			(layer "F.Fab")
 			(hide yes)
@@ -6685,7 +6602,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 186)
 			(layer "F.Fab")
 			(hide yes)
@@ -6701,7 +6618,7 @@
 			(at 0 0 186)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e246459c-3c56-4739-883a-8be57c38ae90")
+			(uuid "5ba5b39c-0901-40ad-9c8a-61cfeb76b8c2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6714,7 +6631,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f727939a-0f40-450f-992d-b6552150acaa")
+			(uuid "9079f064-ebe8-40c9-814e-439a6743939c")
 			(effects
 				(font
 					(size 1 1)
@@ -6735,7 +6652,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6bf113b2-68e4-469e-903a-4d385a2ddb83")
+			(uuid "47e9d1dc-1ed6-4280-bf8a-ea1e0146daa4")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -6745,7 +6662,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dcd092e3-f8a7-47af-8ea8-e03e7181b889")
+			(uuid "efb2c77a-c6b4-47b0-91ed-1cc67a86f6e2")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -6755,7 +6672,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "af8655c6-7b8a-4c7e-a348-1561f90f0c88")
+			(uuid "f1f84960-cea7-4f6e-94c2-80a4540b81ab")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -6765,7 +6682,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "338bc21c-9a73-40d7-bf38-c3d318cd925c")
+			(uuid "038b6360-9f03-4afa-a184-f9d58ccbb058")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 186)
@@ -6797,7 +6714,7 @@
 			(uuid "6d14841d-eaf9-4510-955e-120feb276772")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6819,7 +6736,7 @@
 			(at 0 -1.05 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "42e84c9e-4546-4868-8faa-0a80670d314d")
+			(uuid "340bf3cc-7bd4-492a-804c-74fb4451bf7c")
 			(effects
 				(font
 					(size 1 1)
@@ -6830,7 +6747,7 @@
 		(property "Value" "100k"
 			(at 0 1.05 180)
 			(layer "F.Fab")
-			(uuid "1cbc5913-3195-4591-ae6c-3213987e96de")
+			(uuid "92169e5a-86d2-467d-bfe7-0006a5d9175e")
 			(effects
 				(font
 					(size 1 1)
@@ -6842,7 +6759,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "748b39cb-952c-4099-8312-f4d62a4e0c71")
+			(uuid "c15bbb6a-92e5-4615-b43e-73f564c56b8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6854,7 +6771,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15e75c3a-ff01-47da-bb7b-85ce7d6c51eb")
+			(uuid "9422587c-58c0-44f1-b738-350020a6eb80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7209,7 +7126,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "68f130e5-9646-4036-b433-a87aeecbbf49")
 		(at 66.881512 62.901394 -84)
@@ -7236,7 +7153,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 276)
 			(layer "F.Fab")
 			(hide yes)
@@ -7248,7 +7165,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 276)
 			(layer "F.Fab")
 			(hide yes)
@@ -7264,7 +7181,7 @@
 			(at 0 0 276)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e05f64fc-efce-4875-993b-fe3ab8de72e9")
+			(uuid "8749ce8a-4764-4b4b-838d-086e324435e9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7277,7 +7194,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9fa0df8c-fa34-4a8e-acb0-1c38d9cc9e40")
+			(uuid "c430bd1c-bcc9-4f4f-ac31-36861134f64f")
 			(effects
 				(font
 					(size 1 1)
@@ -7298,7 +7215,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "637bdad3-8a88-4ad0-abb5-724113497c62")
+			(uuid "5cbd3054-f7aa-4cc0-ba74-4c628c708550")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -7308,7 +7225,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "81638ce2-daa9-4602-a192-d8d422d20197")
+			(uuid "04c43e50-5fd8-4421-89bb-8d4888341859")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -7318,7 +7235,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "95d91e6c-0714-4de7-b431-8e096227cefe")
+			(uuid "5ea93773-b4d3-4630-849c-f46d40f19c9a")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -7328,7 +7245,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "291a3467-80b7-4d1b-bc7e-3f8664b3ec73")
+			(uuid "2b4103e0-7505-4466-bfe7-51f353a55df5")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 276)
@@ -7360,7 +7277,7 @@
 			(uuid "2043e447-18bb-441e-8f5d-98cd8e4187c9")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7372,7 +7289,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "69b50728-4ae4-49a5-85cc-02b6d4a43cd0")
 		(at 48.556182 52.32126 -156)
@@ -7399,7 +7316,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 204)
 			(layer "F.Fab")
 			(hide yes)
@@ -7411,7 +7328,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 204)
 			(layer "F.Fab")
 			(hide yes)
@@ -7427,7 +7344,7 @@
 			(at 0 0 204)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce109841-bbf0-4dbc-b5fd-1029660816f6")
+			(uuid "25e3065f-81b3-4529-8fa6-58fa3c970ebc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7440,7 +7357,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "68f3ced8-76cb-4b5b-b583-fb243b7f0063")
+			(uuid "14b51f62-5bc9-41ee-bd25-81227b0f3f9c")
 			(effects
 				(font
 					(size 1 1)
@@ -7461,7 +7378,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f7f819f1-49e8-4b37-985a-7aa931191f13")
+			(uuid "55d1a061-9a43-4bf5-a900-e10b468fcbfa")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -7471,7 +7388,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e117905b-c4a9-4a58-a1d2-2a6931c5f6cb")
+			(uuid "6316f11f-2f88-4481-a0b7-264fd3a4b483")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -7481,7 +7398,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ebfedd0d-ab16-4a67-b237-73e7c5a3bd80")
+			(uuid "be21d6fe-14af-4129-9b89-28a97d7c2641")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -7491,7 +7408,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fec70a1b-a83d-412b-ad9a-b4991fee096f")
+			(uuid "7c2f244d-de68-4929-912b-404e2ac14026")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 204)
@@ -7523,7 +7440,7 @@
 			(uuid "3098e59a-81b8-4318-a43b-1211ec0caf32")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7535,7 +7452,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "6d1594f9-757c-4bd3-81cf-a6cd45c4fea2")
 		(at 70.562306 27.880983 72)
@@ -7562,7 +7479,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 72)
 			(layer "F.Fab")
 			(hide yes)
@@ -7574,7 +7491,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 72)
 			(layer "F.Fab")
 			(hide yes)
@@ -7590,7 +7507,7 @@
 			(at 0 0 72)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea15beb0-f272-4cd4-ad53-7c287781c0ba")
+			(uuid "c9d15b38-99f5-4b3d-b4d7-28c20efcfcc6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7603,7 +7520,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d72e88f-9a64-4444-9338-6338309c665b")
+			(uuid "451111b9-a234-4499-b3ee-496fef290545")
 			(effects
 				(font
 					(size 1 1)
@@ -7624,7 +7541,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8dec43e3-7deb-4277-bdc7-4f7517bad4be")
+			(uuid "74dfb360-dd1b-40d7-81a4-63607c7e9b2f")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -7634,7 +7551,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fc142912-1595-4a05-a844-b1ab644c4a92")
+			(uuid "a643f3b3-1643-4767-8697-01e2e81d6410")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -7644,7 +7561,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e9ad7a21-c476-4aa3-91f5-90c943a927e1")
+			(uuid "4a391df6-f967-437a-9be3-9658c50bcc56")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -7654,7 +7571,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "745acf36-6816-4229-955d-c23a06ac10bf")
+			(uuid "cf0ffcd1-9541-4d18-92dd-f20483454d83")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 72)
@@ -7686,7 +7603,7 @@
 			(uuid "8659e0d2-f39b-4da4-8228-340e8c79c70c")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7698,7 +7615,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "6e72004d-c3b3-44b0-8633-d5c8cb2978dd")
 		(at 82.606657 48.74241 -12)
@@ -7725,7 +7642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 348)
 			(layer "F.Fab")
 			(hide yes)
@@ -7737,7 +7654,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 348)
 			(layer "F.Fab")
 			(hide yes)
@@ -7753,7 +7670,7 @@
 			(at 0 0 348)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d250216-5b47-4fd2-86e5-468a7d59ff0b")
+			(uuid "6ed01c4c-a8a0-48e3-93c0-67924619757c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7766,7 +7683,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "84574ca4-7f81-418d-b1fd-8c5cccdf5723")
+			(uuid "205f3e49-041c-4728-8866-a071faa9f9c3")
 			(effects
 				(font
 					(size 1 1)
@@ -7787,7 +7704,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6f692c77-d9b8-4ddc-bebd-a28b58da1777")
+			(uuid "7c9b2b1b-876b-4425-bd19-a4a71b75a513")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -7797,7 +7714,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "74e0d774-f202-482c-9d77-0002fdf17581")
+			(uuid "0568ce10-b235-4ca2-b7e7-b90cbf1c1e71")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -7807,7 +7724,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "373ca0d0-f923-47e6-a7c1-cc6aec493727")
+			(uuid "bc7c5361-4961-47f0-97e3-9b15eec94226")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -7817,7 +7734,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4465aa60-e5f2-49a5-9c0e-a14cee46b2a7")
+			(uuid "d6b01da9-4c65-4aeb-8f80-9579d660dfa4")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 348)
@@ -7849,7 +7766,7 @@
 			(uuid "95c07902-8fd6-455e-b0e7-d509f897c671")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7861,7 +7778,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "6ffcda4d-1538-4b28-8593-d8dde71197f3")
 		(at 63.118488 27.098606 96)
@@ -7869,8 +7786,7 @@
 		(property "Reference" "W2"
 			(at 0 -4 96)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9e604986-7160-4b66-950a-1666a2c9b4b5")
+			(uuid "1775c261-3bfe-4ce0-ac07-57c1e9df969d")
 			(effects
 				(font
 					(size 1 1)
@@ -7881,7 +7797,7 @@
 		(property "Value" "LED_Small"
 			(at 0 4 96)
 			(layer "F.Fab")
-			(uuid "6baffbd2-5e7c-4fa3-9a67-dc4f3df91638")
+			(uuid "b8f73bfe-ddcb-44f4-99f2-a2bc5270dba4")
 			(effects
 				(font
 					(size 1 1)
@@ -7889,11 +7805,11 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 96)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17475214-43a2-4e5d-a992-e8707f77b5af")
+			(uuid "ec2b5d28-99d9-47bc-b910-9b0294d7d4bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7901,11 +7817,11 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 96)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce1c244f-5890-4225-9e9f-8062ec978c9d")
+			(uuid "0afb8618-49ef-4dc3-acae-d0a8450099ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7917,7 +7833,7 @@
 			(at 0 0 96)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c92b89cf-7a14-42ec-be45-7bf378bc9758")
+			(uuid "be578e59-799b-4322-b069-2279a23bfe91")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7930,7 +7846,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2846db8f-d1e9-45ec-9557-06f0ae05bdd8")
+			(uuid "6fffeeda-10f7-45bc-a884-3b52ae1f0370")
 			(effects
 				(font
 					(size 1 1)
@@ -7951,7 +7867,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2b9b88c0-1a1a-44c2-ba4c-b49caea43f83")
+			(uuid "daa433fc-4a61-4140-9ca1-b370b06ee274")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -7961,7 +7877,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d5916c30-7d51-4498-b2c2-222314355b23")
+			(uuid "8cc8af98-8403-4124-9919-88df2f472547")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -7971,7 +7887,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "03bcbd71-779a-4dab-a4ae-3911badb1b4b")
+			(uuid "62c96e72-9f40-41ed-9d2e-043f0e93d7ba")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -7981,7 +7897,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "96582be3-2fd2-465a-a573-b0c864b19417")
+			(uuid "005c92cc-822d-49ad-ac5e-3e5e10ebc69b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 96)
@@ -8013,7 +7929,7 @@
 			(uuid "98fe9150-07ed-490d-9e08-ed9b9ba1ed00")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8025,7 +7941,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "74e3ff56-a4bb-43d2-aee8-fa9b987796d3")
 		(at 51.623393 57.044351 -138)
@@ -8052,7 +7968,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 222)
 			(layer "F.Fab")
 			(hide yes)
@@ -8064,7 +7980,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 222)
 			(layer "F.Fab")
 			(hide yes)
@@ -8080,7 +7996,7 @@
 			(at 0 0 222)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9dfd34fb-e6b0-49c1-955a-5e76b5aeb1c7")
+			(uuid "5550a94e-4800-4627-93dc-d15f799f06f9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8093,7 +8009,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7656208-8996-48ef-bad6-88a0c1e39314")
+			(uuid "6ec91f60-1003-4ef1-9dcc-75e24949f1c1")
 			(effects
 				(font
 					(size 1 1)
@@ -8114,7 +8030,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "058db81b-114a-4dd6-b7b5-8b11de02b3de")
+			(uuid "08bf0125-8dac-4b48-91cc-cabb8687b9d9")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -8124,7 +8040,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7e7e7979-a608-4f93-a926-5b20b9ca533f")
+			(uuid "3b547e83-40af-456e-8d68-8666cba5cfde")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -8134,7 +8050,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "24de8670-a5ed-4e58-8223-17273e9be72b")
+			(uuid "3a7667f6-d89b-4ae0-bcaf-102dfea6cbc3")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -8144,7 +8060,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4c49d99a-2aa4-419c-b564-15f56c99dc49")
+			(uuid "e45efec8-6700-4380-aeb6-2ba1ee36475b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 222)
@@ -8176,7 +8092,7 @@
 			(uuid "2f99fe0c-8fc1-441d-b443-4392a13ca856")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8188,7 +8104,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "766602d4-f8fb-4e71-94cb-a457a2e747b6")
 		(at 51.623393 32.955649 138)
@@ -8215,7 +8131,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 138)
 			(layer "F.Fab")
 			(hide yes)
@@ -8227,7 +8143,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 138)
 			(layer "F.Fab")
 			(hide yes)
@@ -8243,7 +8159,7 @@
 			(at 0 0 138)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9a810ec5-5601-4ed6-a3d8-b47fe1631f03")
+			(uuid "5906b48a-282a-41dc-b12b-e9f057ec4bed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8256,7 +8172,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6fae374b-1c26-49b9-abb3-16a7f5e2e653")
+			(uuid "3f1e9ef7-8241-4d7b-98b4-6217b5ca32e1")
 			(effects
 				(font
 					(size 1 1)
@@ -8277,7 +8193,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b210dce1-0e2f-44e1-b25a-8ef4408b2628")
+			(uuid "5a592af0-abe5-4908-aee9-ad6c92eefb24")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -8287,7 +8203,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a4d1c75c-9530-46e1-b20d-75e765c8c8a2")
+			(uuid "e3b7f17a-f059-4991-a8e9-0b395235020e")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -8297,7 +8213,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f5da9c21-a088-4422-8db5-5fa27e923747")
+			(uuid "552940b4-f629-4b88-8857-af1f1ed0dd49")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -8307,7 +8223,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bfbbd658-261e-4dfa-bcff-7a9f2a384d2d")
+			(uuid "10b461fe-cc06-4697-8fcb-10a0710ffc47")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 138)
@@ -8339,7 +8255,7 @@
 			(uuid "9e52f9bd-4b1a-47f4-af67-cdc9be6d2dc2")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8361,7 +8277,7 @@
 			(at 0.000001 -0.999999 45)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5f8df8a9-b89d-4a65-9468-e822d2544ec2")
+			(uuid "82032b41-0c3f-4f8b-812d-b46e1e03fcd3")
 			(effects
 				(font
 					(size 1 1)
@@ -8372,7 +8288,7 @@
 		(property "Value" "0.1uF"
 			(at -0.000001 0.999999 45)
 			(layer "F.Fab")
-			(uuid "2cb22326-b8a5-4a6c-a57a-f9d2af6c9eb1")
+			(uuid "7171b3fe-4fe7-4ff4-89cc-ec814d64c5ac")
 			(effects
 				(font
 					(size 1 1)
@@ -8384,7 +8300,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c36ff814-049a-493f-a14f-7b1a865f57a4")
+			(uuid "4de6b1cd-64bb-4193-bdec-461f5847c1c2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8396,7 +8312,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9eee7fc-60ab-4548-93c4-578424457e06")
+			(uuid "e9d187ce-a594-45e4-a44a-a625fc33e1c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8489,7 +8405,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "7917fb24-7bd2-4d7b-870c-c0ff932f408a")
 		(at 47.098606 43.118488 174)
@@ -8516,7 +8432,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 174)
 			(layer "F.Fab")
 			(hide yes)
@@ -8528,7 +8444,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 174)
 			(layer "F.Fab")
 			(hide yes)
@@ -8544,7 +8460,7 @@
 			(at 0 0 174)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0726f49a-f40c-42f0-9915-953dc398e94a")
+			(uuid "3c9ca779-d97a-41dd-b448-b182df052873")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8557,7 +8473,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "69735962-7665-436a-a04a-c800d0baaca5")
+			(uuid "5a23bd43-a948-457f-8fb4-73224fed899c")
 			(effects
 				(font
 					(size 1 1)
@@ -8578,7 +8494,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "807475c3-91e6-49dd-be05-23f4c66f90d3")
+			(uuid "85ba615e-449e-4b02-92dc-6f74935b5399")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -8588,7 +8504,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "272774ae-1ab1-4876-9318-bd3338fe31b2")
+			(uuid "7b4303bb-2195-43f4-bbba-98c613682e89")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -8598,7 +8514,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4b096b2b-97e6-40cb-bd19-ab36cbfef96a")
+			(uuid "c25a7195-0030-45fb-9e07-03e678b21c57")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -8608,7 +8524,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6dab8497-198e-44ce-80ae-d5f0dd59c372")
+			(uuid "82adb9d2-f001-4cf8-8fa3-52fd86629287")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 174)
@@ -8640,7 +8556,7 @@
 			(uuid "101b3145-c24f-4bce-ac32-7b16c897d0a1")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8838,7 +8754,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "85ce7a36-43b1-416a-9d84-38be204f6438")
 		(at 79.562306 55.580135 -36)
@@ -8865,7 +8781,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 324)
 			(layer "F.Fab")
 			(hide yes)
@@ -8877,7 +8793,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 324)
 			(layer "F.Fab")
 			(hide yes)
@@ -8893,7 +8809,7 @@
 			(at 0 0 324)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6030a1c6-ab76-44eb-8c31-d4a6f7eb86a2")
+			(uuid "04c0181d-e6e4-4113-9c0e-6268f34d61e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8906,7 +8822,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "10259813-1407-4d79-91e8-f17a837748f7")
+			(uuid "4fb2763f-9251-49bb-bacd-6937ba7ec394")
 			(effects
 				(font
 					(size 1 1)
@@ -8927,7 +8843,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "36a4c8a0-3869-444f-ab5e-290d941a8ebd")
+			(uuid "fc720e54-36c5-4dec-ac2f-6f34ba31e8b6")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -8937,7 +8853,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "39270fd5-59ab-4f45-934a-9737103f9e32")
+			(uuid "a39fc3bb-83c1-45b1-bec1-7980b5b4e8cf")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -8947,7 +8863,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "da7997ac-cd56-4057-8853-e57836e14318")
+			(uuid "d230fc09-68c4-4572-944f-9efe717727fc")
 		)
 		(fp_line
 			(start 0.8 -0.400001)
@@ -8957,7 +8873,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "92d57a72-f613-4e0d-aa64-124955bd5c62")
+			(uuid "8758c243-2f51-49aa-877e-352e5caa781c")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 324)
@@ -8989,7 +8905,7 @@
 			(uuid "340e5043-4d9d-49c8-b7a1-38069a8a7f39")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9001,7 +8917,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "86a6a5a8-d117-4819-ade4-21e86f69cdda")
 		(at 81.443818 37.67874 24)
@@ -9028,7 +8944,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 24)
 			(layer "F.Fab")
 			(hide yes)
@@ -9040,7 +8956,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 24)
 			(layer "F.Fab")
 			(hide yes)
@@ -9056,7 +8972,7 @@
 			(at 0 0 24)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "003a72a5-dc3d-4747-a174-1d4bd38dfb1a")
+			(uuid "96283864-187a-48f1-9a06-c458e924327e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9069,7 +8985,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eeb2a062-fa29-451f-83b7-0e05ca13265b")
+			(uuid "5db4b9ec-b496-402f-bc8f-46b33b70adcf")
 			(effects
 				(font
 					(size 1 1)
@@ -9090,7 +9006,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ba1dc04c-a60d-4520-ae6a-68a8274b81ec")
+			(uuid "4634f64a-5a07-414e-80e9-b705c071d435")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -9100,7 +9016,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0e89d803-5025-4f15-95dd-54188385cba0")
+			(uuid "1cbcbabc-269d-4dc2-9b83-794444ebd848")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -9110,7 +9026,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ab9e8e1c-a5a4-44cd-b3cb-82519a53169d")
+			(uuid "becfd70d-5a69-48bd-a50e-39094c33c7c2")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -9120,7 +9036,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "32ff314f-11ea-4e69-8834-cfe59817ebd1")
+			(uuid "b0dea6a6-9340-46d9-9eb9-667598726ef2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 24)
@@ -9152,7 +9068,7 @@
 			(uuid "ec151945-3b72-40ed-ada4-9cb0f6d78277")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9164,7 +9080,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "89b0b5bd-f15c-4df8-8c49-c92c279f3600")
 		(at 47.880983 50.562306 -162)
@@ -9191,7 +9107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 198)
 			(layer "F.Fab")
 			(hide yes)
@@ -9203,7 +9119,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 198)
 			(layer "F.Fab")
 			(hide yes)
@@ -9219,7 +9135,7 @@
 			(at 0 0 198)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bccc57a4-61c0-4e28-a364-6f5db4d24bc4")
+			(uuid "6275ff0d-6a18-40c6-8234-92a72fe2ca9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9232,7 +9148,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43624703-9608-4b2b-80e6-34d163361f28")
+			(uuid "2fd79783-0c81-484f-9d3d-e91512c15e1b")
 			(effects
 				(font
 					(size 1 1)
@@ -9253,7 +9169,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cc59798d-6b50-4dd6-aef0-64d5c0807b84")
+			(uuid "d4b328b4-9bd3-40cf-8a50-7822ed259bfb")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -9263,7 +9179,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5add3f99-9d02-4f59-ba71-dd60aaff6f65")
+			(uuid "05756451-c7d4-4307-8577-3f89284f5855")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -9273,7 +9189,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a43dd21a-117b-4e4e-adcd-8412b3eaf4d3")
+			(uuid "99c34b79-a9d5-4086-88e6-3aa33d4820c1")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -9283,7 +9199,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0bad9337-8faf-4156-ad34-579afd51021a")
+			(uuid "83e939c1-2350-467b-85c0-c0428db3e98f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 198)
@@ -9315,7 +9231,7 @@
 			(uuid "8439800b-1860-4379-b4f6-0e6adce7986e")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9777,7 +9693,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "9016eb66-a4c9-4c66-94a4-3280629bc591")
 		(at 49.411543 36 150)
@@ -9804,7 +9720,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
@@ -9816,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
@@ -9832,7 +9748,7 @@
 			(at 0 0 150)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d1c7ebc-b07e-4276-b939-96b404e20940")
+			(uuid "a00db67c-da86-4e2f-bd64-e97990c54152")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9845,7 +9761,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd9469ff-a02a-4383-a10b-9cbf25ff991a")
+			(uuid "ee89fec2-4814-4920-8a04-17bf6bd475a2")
 			(effects
 				(font
 					(size 1 1)
@@ -9866,7 +9782,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2046589f-cc62-46ab-8c4a-881c20d31321")
+			(uuid "ac14585f-c500-4a90-bb1b-4bb3235cc71f")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -9876,7 +9792,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b844016d-31da-4709-b15f-eef2a0a5e84d")
+			(uuid "e3895675-d914-48f6-95a6-9815a5ee4bc3")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -9886,7 +9802,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9d30b051-dccf-43a0-b907-40d1f75de0fb")
+			(uuid "225c2c55-e8a6-4554-b893-86b6215d8a53")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -9896,7 +9812,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7344dea5-d835-4d87-a52f-9bec78fef1b1")
+			(uuid "da8e6138-310d-44dd-8954-5138f48e9316")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 150)
@@ -9928,7 +9844,7 @@
 			(uuid "8743b464-5cb1-4d9b-a70a-39591e3feea7")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10126,7 +10042,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "96b66007-20e7-4100-8f61-7847da6c0b96")
 		(at 82.901394 46.881512 -6)
@@ -10153,7 +10069,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 354)
 			(layer "F.Fab")
 			(hide yes)
@@ -10165,7 +10081,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 354)
 			(layer "F.Fab")
 			(hide yes)
@@ -10181,7 +10097,7 @@
 			(at 0 0 354)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6d4aa24e-b8a4-4f02-bec8-82ec4b487f07")
+			(uuid "60fa4274-7603-40fa-aa02-6c48522afe6b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10194,7 +10110,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "353b8b8a-e68e-4dc1-b802-423fd033ce2e")
+			(uuid "05214f9d-6f5a-4517-bdeb-fde8a1dd53bd")
 			(effects
 				(font
 					(size 1 1)
@@ -10215,7 +10131,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "214c2c28-d5ea-4e7c-9c11-f039221cc869")
+			(uuid "552d31bb-241b-4b9b-81e6-0dddc5ec087b")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -10225,7 +10141,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d724e84f-e4af-452e-bb81-f80161fdb452")
+			(uuid "e9a5a5c3-afd6-4151-99d5-b6c67d1eab27")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -10235,7 +10151,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2901285c-6afd-4bf0-bd0a-2357985e889e")
+			(uuid "c9c4253a-3f51-4e0d-af33-e3b4e1f751de")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -10245,7 +10161,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "68119a29-c535-4e52-8bbd-32356204625c")
+			(uuid "2136b824-82f8-48a2-8883-f4fd0630de70")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 354)
@@ -10277,7 +10193,7 @@
 			(uuid "dd8544aa-c7ca-4777-a071-a52af7a8c4bc")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10289,7 +10205,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "97a750d7-663c-4c1e-84fb-be202dde6d44")
 		(at 83 45)
@@ -10316,7 +10232,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10328,7 +10244,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10344,7 +10260,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ed9d56b-6e77-47b3-9815-31032690a888")
+			(uuid "4f90bd95-df84-4022-a247-87260bd94770")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10357,7 +10273,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd3bfdbd-f506-47a7-855b-b26d215d015c")
+			(uuid "3a650ea5-ce67-40b6-9d2c-3ba40443a6d8")
 			(effects
 				(font
 					(size 1 1)
@@ -10378,7 +10294,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "57960184-4f06-4cd7-ac28-c45dfcdf4c30")
+			(uuid "f33fd793-e6f5-4107-a0f5-8f2189df216f")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -10388,7 +10304,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f537db1a-807d-448e-87e3-f7af1a4b9519")
+			(uuid "b8f66836-9746-46cc-b1e8-d1c801bf4a9f")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -10398,7 +10314,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "edc3aa1b-3773-4907-ac73-d92d4e477547")
+			(uuid "b043a6b0-3683-4e6b-8402-eda7126195d5")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -10408,7 +10324,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "05ce1923-5386-4a40-b773-1975d2cafe1f")
+			(uuid "3a9b8aa4-9071-4ae0-a3d3-faf24e7ed5c1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -10440,7 +10356,7 @@
 			(uuid "a6e17bde-f9c7-4c04-b4f3-0888e958e41e")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10459,7 +10375,8 @@
 		(property "Reference" "U3"
 			(at 0 -4.78 0)
 			(layer "F.SilkS")
-			(uuid "168fa6de-d06d-465b-9c24-5b718c649c9d")
+			(hide yes)
+			(uuid "987ba62a-cabb-47a4-93e1-fe3916611290")
 			(effects
 				(font
 					(size 1 1)
@@ -10470,7 +10387,7 @@
 		(property "Value" "LIS2DW12TR-MS"
 			(at 0 4.78 0)
 			(layer "F.Fab")
-			(uuid "52c0223d-4d71-4c71-badd-5020429d2963")
+			(uuid "747323b6-105a-4fea-abef-c19d51711e52")
 			(effects
 				(font
 					(size 1 1)
@@ -10482,7 +10399,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a685d9da-e73b-4b2a-89eb-38214ebbb867")
+			(uuid "fd1a7d7c-acec-4b91-9b82-764da809133a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10494,7 +10411,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fdd3010a-5781-4039-886b-9a7a0ada30e6")
+			(uuid "b4aae203-e122-45e5-a7ec-85477108b294")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10827,7 +10744,7 @@
 			(uuid "61507e81-7f49-4893-af68-a553b3bb3792")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LGA-12_L2.0-W2.0_BMA250.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LGA-12_L2.0-W2.0-H1.0-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10835,11 +10752,11 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "99c3a9af-3525-434a-95e6-78eac7f94517")
 		(at 57.67874 61.443818 -114)
@@ -10866,7 +10783,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 246)
 			(layer "F.Fab")
 			(hide yes)
@@ -10878,7 +10795,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 246)
 			(layer "F.Fab")
 			(hide yes)
@@ -10894,7 +10811,7 @@
 			(at 0 0 246)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40ec326e-e35a-4105-926f-edaed5bfdac2")
+			(uuid "21962aa8-e0d7-43ac-a420-14617cf07e18")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10907,7 +10824,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f18f93fc-0a69-4313-bb82-2646b6f9fc58")
+			(uuid "6c295349-4af7-4bf4-b978-c59dc8ff4835")
 			(effects
 				(font
 					(size 1 1)
@@ -10928,7 +10845,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "57235b2b-bfe2-4099-9393-65b289641b11")
+			(uuid "76d707ce-5bcf-433a-8fa3-1a569b22037a")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -10938,7 +10855,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e4b8ff6d-2cba-4cf1-8a55-ac6f8a9f347f")
+			(uuid "f2213c8b-9105-4f19-976d-e7420f57c07d")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -10948,7 +10865,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "aead8321-8559-434d-b1df-3284d31c123a")
+			(uuid "9ebd3aeb-9e3e-4c32-b980-9422b90a7d81")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -10958,7 +10875,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "810d5093-833a-4807-b018-55814f012fe8")
+			(uuid "2039dfa5-4d04-4d3a-853c-33d9f5994f3b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 246)
@@ -10990,7 +10907,7 @@
 			(uuid "014bae1c-c790-495c-b62a-3090bcf3e256")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11012,7 +10929,7 @@
 			(at 0.000001 -0.999999 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "eb885069-3b9e-4b36-8317-743e52fe9001")
+			(uuid "79eb0dc9-6919-41fa-a555-2739c907d713")
 			(effects
 				(font
 					(size 1 1)
@@ -11023,7 +10940,7 @@
 		(property "Value" "0.1uF"
 			(at -0.000001 0.999999 90)
 			(layer "F.Fab")
-			(uuid "cccf1d97-9fa3-43f8-82b2-99a02d6f93f7")
+			(uuid "a2d1f1f3-3952-481f-89cf-6c41045ec016")
 			(effects
 				(font
 					(size 1 1)
@@ -11035,7 +10952,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6409d60b-7fed-4145-9b82-bfbff87350d6")
+			(uuid "0cc65aed-cbaa-4639-80f9-9c0144e9da52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11047,7 +10964,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b16f4957-f1c5-43b1-83fe-af6a391e3f77")
+			(uuid "d4718247-5901-4415-9262-6f99c385e2b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11336,7 +11253,7 @@
 			(at 0 -1.05 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "e9213cd6-8680-4b54-915c-38d970317257")
+			(uuid "77709bfe-dff1-4a4c-b667-cd5375abf2e6")
 			(effects
 				(font
 					(size 1 1)
@@ -11347,7 +11264,7 @@
 		(property "Value" "220"
 			(at 0 1.05 0)
 			(layer "F.Fab")
-			(uuid "709aafdd-5628-413d-81b9-9ec265d4ceb0")
+			(uuid "ecc11f02-85b9-472e-92ea-bc6140f781c6")
 			(effects
 				(font
 					(size 1 1)
@@ -11359,7 +11276,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a9f18df-9cbd-400a-835a-f58f5dfbd88a")
+			(uuid "65ff9b69-f1fa-44a9-8142-7192f650dab0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11371,7 +11288,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79d8c99c-deab-4faf-a243-7d5dd0fd9aac")
+			(uuid "c5772f82-587e-4386-ab0a-f4311f496918")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11462,7 +11379,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "a7fb7929-f24c-454d-836b-4b1072300c5d")
 		(at 82.119017 39.437694 18)
@@ -11489,7 +11406,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 18)
 			(layer "F.Fab")
 			(hide yes)
@@ -11501,7 +11418,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 18)
 			(layer "F.Fab")
 			(hide yes)
@@ -11517,7 +11434,7 @@
 			(at 0 0 18)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9bb09c6a-8155-4677-ad64-07352da91a9a")
+			(uuid "24de46a1-36a7-46ba-9a80-ed3c23ddcbd3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11530,7 +11447,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95e9aa4e-4d3d-447e-a105-ce212c7d5a92")
+			(uuid "aa5639ff-b71c-4cd1-a32c-8f7da284aae0")
 			(effects
 				(font
 					(size 1 1)
@@ -11551,7 +11468,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a8bba7d9-1127-417e-8390-8f705fea48e5")
+			(uuid "10348e60-892e-42f3-a748-b5b695184c0e")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -11561,7 +11478,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "29b62b8d-8409-4e3e-b05b-1b4bc0d6bd47")
+			(uuid "14ba0260-41e3-43af-a988-04db5011bddd")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -11571,7 +11488,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6106cdb1-7a1f-444e-959d-8dac86466b85")
+			(uuid "b01c9e6f-d000-4698-bd5a-64fb620bd245")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -11581,7 +11498,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1441bc76-66a4-49eb-a8ae-3c3545eec9cd")
+			(uuid "dde7d0f7-3a7d-4ee7-be07-362c504a3e17")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 18)
@@ -11613,7 +11530,7 @@
 			(uuid "7231e01d-1406-4700-9025-dc46eff75382")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11625,7 +11542,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "a9f5936f-db4b-4be9-b661-3c8fb8f30183")
 		(at 77.044351 31.623393 48)
@@ -11652,7 +11569,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 48)
 			(layer "F.Fab")
 			(hide yes)
@@ -11664,7 +11581,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 48)
 			(layer "F.Fab")
 			(hide yes)
@@ -11680,7 +11597,7 @@
 			(at 0 0 48)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "727d1714-9a44-488f-a32d-cfdf5e6692b6")
+			(uuid "3df764dc-3f96-4f60-ae39-884ccb3af852")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11693,7 +11610,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80fcfb87-7991-4569-b8c9-7bd4f0096e1f")
+			(uuid "f65e9edf-28cd-4e27-9f87-a91093e71d2b")
 			(effects
 				(font
 					(size 1 1)
@@ -11714,7 +11631,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0dc0b067-2ab4-4a10-aaef-bad07e0c4f7d")
+			(uuid "6cafad38-cbcd-4f0e-9935-32f12b094b4b")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -11724,7 +11641,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8f3849ef-e901-489b-81cd-73c6f58df496")
+			(uuid "01114187-d784-4642-8bd0-c3a5a4c46196")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -11734,7 +11651,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8737ca3b-9141-4c9c-a2b8-2934776c44c2")
+			(uuid "ceb23b92-ebea-4258-90e0-de3bd8e1cf2e")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -11744,7 +11661,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e7b25c8b-8843-4f98-ba6d-06c41a271fc2")
+			(uuid "ec777aee-05ba-4788-849b-08463309acb2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 48)
@@ -11776,7 +11693,7 @@
 			(uuid "aee7edaa-f19f-4182-a2bc-941194eec161")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11788,7 +11705,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "abc0eb2e-48c3-4e75-863c-6af9cb3a69a8")
 		(at 68.74241 27.393343 78)
@@ -11815,7 +11732,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 78)
 			(layer "F.Fab")
 			(hide yes)
@@ -11827,7 +11744,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 78)
 			(layer "F.Fab")
 			(hide yes)
@@ -11843,7 +11760,7 @@
 			(at 0 0 78)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "eb2fbeeb-f7ef-43f3-b9bf-84d1468bbebc")
+			(uuid "86ca8816-4a92-4f3f-9280-f3cc1c1296d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11856,7 +11773,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13addea8-7c20-452d-bca9-e0fb554efc97")
+			(uuid "bcf64870-aa9f-48ec-8f9b-85c995a7e20b")
 			(effects
 				(font
 					(size 1 1)
@@ -11877,7 +11794,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "54127335-95d2-4d95-9251-fe525aa2f6bd")
+			(uuid "44a218de-fbf0-467d-ba9b-2aa1e1741801")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -11887,7 +11804,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "113247f9-77bd-4ecc-94b9-7b712c7c0fce")
+			(uuid "24de0579-cce2-4f20-9ea2-7c7033ca535b")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -11897,7 +11814,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2360363f-c053-4f36-addd-0e212fa5c1ac")
+			(uuid "47d01578-5890-4cdc-a671-4690fbb062fd")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -11907,7 +11824,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "beb0f17e-9bfc-486f-889c-4a2fc8c02596")
+			(uuid "b1d7c336-bc2e-4c01-8e11-a872955ab7ce")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 78)
@@ -11939,7 +11856,7 @@
 			(uuid "1668094f-7c58-426c-8c74-4690c8b11073")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12137,7 +12054,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "ad37cce2-51b6-4d9f-bb5c-0965036674a1")
 		(at 59.437694 62.119017 -108)
@@ -12164,7 +12081,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 252)
 			(layer "F.Fab")
 			(hide yes)
@@ -12176,7 +12093,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 252)
 			(layer "F.Fab")
 			(hide yes)
@@ -12192,7 +12109,7 @@
 			(at 0 0 252)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6883a10a-6ff5-4844-9043-1d53c1982148")
+			(uuid "5e956bf0-8b5e-416c-a456-58b8f4ff2833")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12205,7 +12122,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1aecce4a-1991-4c69-b84f-b41eeb585679")
+			(uuid "7e26797d-2f27-433c-8d17-e0493f583ef5")
 			(effects
 				(font
 					(size 1 1)
@@ -12226,7 +12143,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "681c7f7e-2058-420f-9f9e-7a28618343a4")
+			(uuid "0fac8eb8-8e27-47e7-8666-84b2a03cf6a9")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -12236,7 +12153,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b657f0dd-ac7d-4fea-a442-2f67df37f9da")
+			(uuid "475ede39-d361-4fb8-9576-0457491b301e")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -12246,7 +12163,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5bdc0145-d435-45f6-bf44-8e4c8eb5160a")
+			(uuid "6ac5ba93-ebd0-4d9e-953a-fc659c2e2707")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -12256,7 +12173,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e7dae1c6-d03f-4f92-b990-c7a3e7688f82")
+			(uuid "63978528-e6c6-4d81-b0e2-3bfd1ef02043")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 252)
@@ -12288,7 +12205,7 @@
 			(uuid "adce07ee-3e9d-43e1-a1c4-197e3745e619")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12564,7 +12481,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "af831eb7-8b35-4dcb-aa51-443f276eb58b")
 		(at 80.588457 54 -30)
@@ -12591,7 +12508,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 330)
 			(layer "F.Fab")
 			(hide yes)
@@ -12603,7 +12520,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 330)
 			(layer "F.Fab")
 			(hide yes)
@@ -12619,7 +12536,7 @@
 			(at 0 0 330)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a858ffd0-7942-45a5-9fe0-e956f3ae198a")
+			(uuid "942ecf35-0e8a-49da-a796-bd5ca2cc5446")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12632,7 +12549,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cae115f-b94e-4498-96d1-905e3813a2b6")
+			(uuid "fbf5ff22-4b1b-405d-9e32-e276008f5e4d")
 			(effects
 				(font
 					(size 1 1)
@@ -12653,7 +12570,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "000d7752-3e91-4dc4-8e34-961def21f78c")
+			(uuid "811c88b6-2694-40f5-897d-8546f89ac18e")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -12663,7 +12580,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5b8ffe27-d569-4d31-a276-2a10af73eee7")
+			(uuid "980e202e-5e54-4fb1-aa68-f37238c11ead")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -12673,7 +12590,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "12c84109-4019-423d-bc8a-ba4aa8c769e3")
+			(uuid "698cfcc6-2f37-4989-8247-4fd979c49459")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -12683,7 +12600,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c98a21e3-0e33-410f-a41f-96ae73bc7b56")
+			(uuid "d1ee35c8-5bb2-40b9-88b0-e656ed6b9b7a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 330)
@@ -12715,7 +12632,7 @@
 			(uuid "db7390fa-4869-4f64-a3ab-8b889e66615f")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12727,7 +12644,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "b2b1aa9b-809c-41c3-a3fd-768682377803")
 		(at 47 45 180)
@@ -12754,7 +12671,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -12766,7 +12683,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -12782,7 +12699,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6945fc7f-8c75-4331-ac8f-709c4770bea3")
+			(uuid "8de2f208-5b3a-4b0c-bf87-109af9468216")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12795,7 +12712,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0116e4e7-3fa2-4b42-b70c-b484882fe3a4")
+			(uuid "b5494e2a-9459-47bf-8fda-963a091326ae")
 			(effects
 				(font
 					(size 1 1)
@@ -12816,7 +12733,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e14ba364-f0fb-4ac0-bd92-76cd9d82904b")
+			(uuid "3d18b8ff-8869-46b5-950b-b7e33427ca57")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -12826,7 +12743,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "452f65ec-fd43-4141-92fe-5e3765451a5e")
+			(uuid "c93a2ac2-116a-4ef5-add0-8cd8ae546344")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -12836,7 +12753,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1e7b5b22-0a57-4a81-a642-9af867ce42f6")
+			(uuid "d6b686dc-bd58-43e3-9619-4cfd1f3d768b")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -12846,7 +12763,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "88b0285c-c9c9-4d11-a140-af7a1c04dc31")
+			(uuid "638781b3-5def-4252-97cd-fb9f3106662f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
@@ -12878,7 +12795,7 @@
 			(uuid "ad544eae-1042-4fec-9380-abfc46c11a53")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12890,7 +12807,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "c6c19a82-3560-41de-a32c-7988966a1abe")
 		(at 72.32126 28.556182 66)
@@ -12917,7 +12834,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 66)
 			(layer "F.Fab")
 			(hide yes)
@@ -12929,7 +12846,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 66)
 			(layer "F.Fab")
 			(hide yes)
@@ -12945,7 +12862,7 @@
 			(at 0 0 66)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83ee24a9-d9a5-422f-a38c-42f598d86500")
+			(uuid "cdbd0587-23e3-489d-b340-abc1bbdc5396")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12958,7 +12875,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17034f83-903f-43c9-a7b9-2b019716a6de")
+			(uuid "f20f9365-6965-4d64-8aa8-7bd1c6bfd527")
 			(effects
 				(font
 					(size 1 1)
@@ -12979,7 +12896,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ab35cecf-cdf5-4098-8ba8-b0476ce3d227")
+			(uuid "b475bf04-9b88-42e7-8fc1-012509540e12")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -12989,7 +12906,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "277ebcc7-85c4-49e8-9f5d-1458c52093ef")
+			(uuid "74467ae4-20e1-4a9d-ad68-df306984194b")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -12999,7 +12916,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2220086c-2e28-45b4-8d18-18bf0e5cc80e")
+			(uuid "77990c35-e054-41f2-b15d-ca5354db9d9f")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -13009,7 +12926,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a8554861-fd37-45c1-bac9-50abee6155bb")
+			(uuid "ac7d48f2-da80-4999-a9bd-1ece6f26536a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 66)
@@ -13041,7 +12958,7 @@
 			(uuid "bc938da7-20bd-4941-b55c-ec259c80e041")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13053,7 +12970,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "c7944db1-b445-4ff5-ae49-b9dd4d35d2c1")
 		(at 74 60.588457 -60)
@@ -13080,7 +12997,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 300)
 			(layer "F.Fab")
 			(hide yes)
@@ -13092,7 +13009,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 300)
 			(layer "F.Fab")
 			(hide yes)
@@ -13108,7 +13025,7 @@
 			(at 0 0 300)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "721bf9c6-4561-477e-bcbd-54a3e2a735bc")
+			(uuid "64f12fe1-079e-4b06-b272-13c946f579e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13121,7 +13038,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "725361e9-ae44-4577-bacb-d2e2cd66ff26")
+			(uuid "717b202c-84de-430a-8011-49e86e1eb0a8")
 			(effects
 				(font
 					(size 1 1)
@@ -13142,7 +13059,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "20da2609-b3be-471e-b0ce-758fcb4379de")
+			(uuid "7c8cf183-d1c1-4e5a-a819-5470a1b723cd")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -13152,7 +13069,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9487f026-e687-449b-b556-d8267080ce27")
+			(uuid "5f770af7-181b-44eb-9abb-a3849fa654b1")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -13162,7 +13079,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b81f97cd-738e-47c6-a736-154df8a1f395")
+			(uuid "1bd0ad93-aeb2-4095-b0e4-e14c854cd960")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -13172,7 +13089,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d85b9fb6-0af2-4b28-b423-38338d5193e5")
+			(uuid "6195aefc-2c74-412c-9263-28704c4dd690")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 300)
@@ -13204,7 +13121,7 @@
 			(uuid "024b831e-087f-49f7-8b62-5c8f6471aa7e")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13402,7 +13319,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "c9b4688b-8749-414c-a4af-b8769b27bf1a")
 		(at 48.556182 37.67874 156)
@@ -13429,7 +13346,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 156)
 			(layer "F.Fab")
 			(hide yes)
@@ -13441,7 +13358,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 156)
 			(layer "F.Fab")
 			(hide yes)
@@ -13457,7 +13374,7 @@
 			(at 0 0 156)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5d7e37e0-1fff-4d01-bee0-736b295348ab")
+			(uuid "9a57afad-0e2b-4a96-9764-dc2f8fc22e97")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13470,7 +13387,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec7a9f9b-9ddb-4937-8a7f-eb08f04defa1")
+			(uuid "d6fc5553-d3cb-4730-9ff8-1a9567b7f58f")
 			(effects
 				(font
 					(size 1 1)
@@ -13491,7 +13408,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3d7685b0-ff4c-4ce5-92ef-0ca5987b9521")
+			(uuid "cf2b1302-a002-4062-a6d3-a33c19de094a")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -13501,7 +13418,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9f94e2c0-ab93-491e-9e5d-b4234b6566f7")
+			(uuid "d4fd0cac-9ce2-4fcf-97ea-c122b1deccba")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -13511,7 +13428,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ec991c80-5e25-4682-9777-f96cd906dc9f")
+			(uuid "215b491a-d4ee-4234-84e8-cb95de9877db")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -13521,7 +13438,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "02fd5383-97f0-4ce5-9dc9-6d9f669d9176")
+			(uuid "5e4c0b54-00be-4cef-ab9e-9a1fce228006")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 156)
@@ -13553,7 +13470,7 @@
 			(uuid "4f10d256-a5bc-41b5-bcb3-8d130871b28f")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13565,7 +13482,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "ca376054-d400-4d47-bebf-9e6211d23aef")
 		(at 79.562306 34.419865 36)
@@ -13592,7 +13509,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 36)
 			(layer "F.Fab")
 			(hide yes)
@@ -13604,7 +13521,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 36)
 			(layer "F.Fab")
 			(hide yes)
@@ -13620,7 +13537,7 @@
 			(at 0 0 36)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3416630-c05e-4d69-9245-65f0ceaff31e")
+			(uuid "02eff007-5e56-42fa-bd1d-d33f2b83ca9c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13633,7 +13550,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82ad51e2-b4cd-4b94-8999-513ed28da6b4")
+			(uuid "0802cee1-902b-4b5b-965c-d5eab39b2ce5")
 			(effects
 				(font
 					(size 1 1)
@@ -13654,7 +13571,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c8d3a35b-6831-448d-adb2-c572d83fe086")
+			(uuid "496ee6e6-6564-4069-8200-ffeea5a61b64")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -13664,7 +13581,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "424a7e13-c359-4b1a-a491-5426c2345009")
+			(uuid "ae53995b-eee1-4f9b-98c6-b4839db2f1ed")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -13674,7 +13591,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "4473a1d4-e31d-4d99-b8d6-b207f9fb8f59")
+			(uuid "80c5e83e-fed4-46d6-b0a3-22c54e5c7b05")
 		)
 		(fp_line
 			(start 0.8 0.400001)
@@ -13684,7 +13601,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5816a9e4-9caf-4860-95ce-49584969a60c")
+			(uuid "4ecbe688-4ddd-43ba-93cb-9416e284debf")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 36)
@@ -13716,7 +13633,7 @@
 			(uuid "7395be6e-8231-4180-8346-72098c46a998")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13728,7 +13645,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "d374d114-2613-462a-a30b-5b543dfe3262")
 		(at 81.443818 52.32126 -24)
@@ -13755,7 +13672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 336)
 			(layer "F.Fab")
 			(hide yes)
@@ -13767,7 +13684,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 336)
 			(layer "F.Fab")
 			(hide yes)
@@ -13783,7 +13700,7 @@
 			(at 0 0 336)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35af16a5-4aa3-4fa8-ac15-54bce7e105b9")
+			(uuid "0bd8c54c-bdf4-4c5c-a305-63dd77490880")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13796,7 +13713,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ac520b51-941f-4eb3-b6c1-b8f7ef912f08")
+			(uuid "f989ae08-a659-4e2e-83fd-e00e8e1c614b")
 			(effects
 				(font
 					(size 1 1)
@@ -13817,7 +13734,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "07e983f7-a024-4c7d-a3ef-8c5e8e60c423")
+			(uuid "a83ffa36-d037-4aa5-b281-ec02786d0c15")
 		)
 		(fp_line
 			(start -0.8 -0.399999)
@@ -13827,7 +13744,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "24c1bcb5-6f28-472d-803a-cd9ea153a342")
+			(uuid "bb2d2872-280d-4159-a7d4-29eab41d4656")
 		)
 		(fp_line
 			(start 0.8 0.399999)
@@ -13837,7 +13754,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "297fd6b2-abbd-43f6-942e-04881d13eeb3")
+			(uuid "c0356eb7-2215-4ec7-84ca-fe7f1dc0a21b")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -13847,7 +13764,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3a4ed16a-7594-48fa-a63d-ccf492498b34")
+			(uuid "cda2ac24-a11e-4c1a-a516-a008c2f42b12")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 336)
@@ -13879,7 +13796,7 @@
 			(uuid "d8d2a25e-4615-47c9-887a-0cb259463108")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13891,7 +13808,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "d72d70c6-5ddc-4bee-b838-3e7ba1ab78dd")
 		(at 61.25759 27.393343 102)
@@ -13918,7 +13835,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 102)
 			(layer "F.Fab")
 			(hide yes)
@@ -13930,7 +13847,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 102)
 			(layer "F.Fab")
 			(hide yes)
@@ -13946,7 +13863,7 @@
 			(at 0 0 102)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90d2cc80-f1f7-4685-b7e7-922a7298f04b")
+			(uuid "0aaba506-3d88-463b-9a03-042aee758278")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13959,7 +13876,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "86159688-e643-4adc-bbca-8557553a808c")
+			(uuid "eff5fb92-220c-4612-a8ff-e82849f175f6")
 			(effects
 				(font
 					(size 1 1)
@@ -13980,7 +13897,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "87f17468-44c5-4436-bfc3-c4f098604faf")
+			(uuid "0bada89d-1a5d-41b1-94f0-cb2af7692b66")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -13990,7 +13907,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6a7c8934-28e9-460f-9729-6c9a700ff52a")
+			(uuid "002c2dad-ae02-4a24-8d98-acd621c0f774")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -14000,7 +13917,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cc200946-af70-4b07-a920-ed0becc1e839")
+			(uuid "13b30322-69c2-442c-8213-ce5ca1778da4")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -14010,7 +13927,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b78aafd6-7b10-44e8-9b6a-16d3d7c3bfd8")
+			(uuid "5af55607-3e33-4218-a254-ab782af195a4")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 102)
@@ -14042,7 +13959,7 @@
 			(uuid "e5bc534e-19dc-4d8a-afbe-306414980eaa")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14054,7 +13971,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "dbf77b2e-7d86-4f96-95f0-3b03ca616338")
 		(at 82.901394 43.118488 6)
@@ -14081,7 +13998,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 6)
 			(layer "F.Fab")
 			(hide yes)
@@ -14093,7 +14010,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 6)
 			(layer "F.Fab")
 			(hide yes)
@@ -14109,7 +14026,7 @@
 			(at 0 0 6)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2913909e-2e4c-408e-8161-351d674edaf1")
+			(uuid "84032ba8-6bfc-4200-be63-21faebe50d6f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14122,7 +14039,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ee12a77-efab-4ce2-9321-737fe4bde76f")
+			(uuid "6efd9e1a-17f8-493d-a39f-b04e849bf13d")
 			(effects
 				(font
 					(size 1 1)
@@ -14143,7 +14060,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "37d2a17f-3f7c-4d0a-8cbf-6f156eed2c14")
+			(uuid "78faf066-1e28-4fc8-8725-4ac772495f72")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -14153,7 +14070,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "85def4c8-0504-4eaf-9fa0-1689354e4416")
+			(uuid "d683360f-54f7-4f35-86f0-8e6943bcd8be")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -14163,7 +14080,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a93881c3-e2f0-405a-a6b6-08026d94de0e")
+			(uuid "2afc6a3d-040c-47bd-b774-12be602ebd33")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -14173,7 +14090,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9352742d-e84f-43c8-9c98-97870d8eede1")
+			(uuid "3cf38eea-568a-48df-8cbe-2ddbba033eac")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 6)
@@ -14205,7 +14122,7 @@
 			(uuid "b951134a-74b6-4b2f-b67e-34311c4f1505")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14403,7 +14320,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e223d53c-8074-42da-957d-757714b25c4c")
 		(at 78.376607 32.955649 42)
@@ -14430,7 +14347,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 42)
 			(layer "F.Fab")
 			(hide yes)
@@ -14442,7 +14359,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 42)
 			(layer "F.Fab")
 			(hide yes)
@@ -14458,7 +14375,7 @@
 			(at 0 0 42)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "25e562f2-679c-48b0-a442-a72da6789a4a")
+			(uuid "a3cdf413-9b3d-4659-8cf5-3f6546445d80")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14471,7 +14388,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "958cd72c-81f2-4ee3-8d19-c8fe9265182f")
+			(uuid "27869517-729d-4f77-a80f-3573861674df")
 			(effects
 				(font
 					(size 1 1)
@@ -14492,7 +14409,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7e212872-788c-4cfb-9b3d-e6de7fc0f87d")
+			(uuid "12dfa12f-7e89-4ef7-a115-4a55c3fc37c0")
 		)
 		(fp_line
 			(start -0.8 0.399999)
@@ -14502,7 +14419,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "35a8fd74-5e6e-43f1-92ef-ff313da05661")
+			(uuid "cc70090e-784f-42f3-8931-8b976dc2ef60")
 		)
 		(fp_line
 			(start 0.8 -0.399999)
@@ -14512,7 +14429,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d0dec415-3d2a-4c92-9fb0-ac3ae59947ac")
+			(uuid "e80179bb-de1a-4190-8506-8430870a6eba")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -14522,7 +14439,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9e5694b6-e2ef-43a9-b384-1e45c9d502c7")
+			(uuid "f86400e9-6ce1-485b-a473-3a47e439d341")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 42)
@@ -14554,7 +14471,7 @@
 			(uuid "eff64d47-291c-499e-bb6c-0e2ed0d7b0a5")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14566,7 +14483,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e2e6d42e-86af-43ce-a9a3-61cf5f6e9d73")
 		(at 74 29.411543 60)
@@ -14593,7 +14510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
@@ -14605,7 +14522,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
@@ -14621,7 +14538,7 @@
 			(at 0 0 60)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b044115-5f28-47c4-8b85-2f6e62651852")
+			(uuid "0750b92a-2fce-470b-bf54-d263619ae7e2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14634,7 +14551,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de61e7af-4643-4672-8a22-c371c114cc1d")
+			(uuid "9813a989-3457-4e0a-b085-2cbaa47c84d7")
 			(effects
 				(font
 					(size 1 1)
@@ -14655,7 +14572,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2a55e306-95c7-47a2-af49-19dc993798e6")
+			(uuid "1dd61ac9-5a5a-481f-b964-548ad3256168")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -14665,7 +14582,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7de114c2-bcaf-4bd1-bb58-faefe3d266ea")
+			(uuid "8c0e92a5-10ad-4be7-b1e7-84d759c4db8c")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -14675,7 +14592,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f74a88f9-0cda-4df5-99b9-c0683426a8d7")
+			(uuid "24af44c9-70c4-40ea-a69a-c6b0fc1eecf9")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -14685,7 +14602,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d073d04f-093e-43a3-8402-be073600a37c")
+			(uuid "fcfc664d-7b14-4679-8bf8-f09d628e88f1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 60)
@@ -14717,7 +14634,7 @@
 			(uuid "33c308e0-712f-40da-bb06-ba540c77635b")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14739,7 +14656,7 @@
 			(at 0.000001 -0.999999 45)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d1b46b8b-8e27-4a74-ba00-8c3c848df6e9")
+			(uuid "cb4e7941-4a43-4eb4-bf3b-579a34dbae0a")
 			(effects
 				(font
 					(size 1 1)
@@ -14750,7 +14667,7 @@
 		(property "Value" "0.1uF"
 			(at -0.000001 0.999999 45)
 			(layer "F.Fab")
-			(uuid "4f2b3c1f-72c4-4600-bd7b-167b2a27210c")
+			(uuid "948d4ff8-1c31-4810-b292-cd5f3cfcb69a")
 			(effects
 				(font
 					(size 1 1)
@@ -14762,7 +14679,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4747692-37a5-4d60-8bd2-36755324d9a5")
+			(uuid "c004c6ac-a4f1-4057-a5fc-f18c23ca6f8b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14774,7 +14691,7 @@
 			(at 0 0 45)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99a4e846-af94-41c7-8d44-1fcbe4e2b9b8")
+			(uuid "22049d52-6376-4db9-8fbf-f3b28e24acdd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14867,7 +14784,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e75171ec-28cb-4091-89c5-26c36d419431")
 		(at 65 27 90)
@@ -14894,7 +14811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14906,7 +14823,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14922,7 +14839,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ceaca8b1-455e-43ec-8ca9-2d945f3777f9")
+			(uuid "51b50e03-7268-4aae-8588-26fa4070f4fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14935,7 +14852,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4783486-fed2-4bc4-824e-2cedaad01bc0")
+			(uuid "fa3cecc2-30d2-4563-9056-9411e31b1f57")
 			(effects
 				(font
 					(size 1 1)
@@ -14956,7 +14873,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "afe5bd18-8fea-422e-89b3-61be605d514c")
+			(uuid "98e5f006-7798-4b79-a539-cee1228d5ee1")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -14966,7 +14883,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "addbfd69-b0ce-4816-ae9d-9caf1c9e1d69")
+			(uuid "09d6b4f2-e171-4d51-8d27-9f10154906c5")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -14976,7 +14893,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d03ebc66-997e-4cf6-b8f3-8a8caff80baf")
+			(uuid "65b19ec3-08ab-4fe2-9992-ce990d2eedbb")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -14986,7 +14903,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "07386a83-a6cb-4a0d-aada-c85278833b97")
+			(uuid "e3ffc6b2-f50c-4cfb-9dff-7085beb98f10")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -15018,7 +14935,7 @@
 			(uuid "f1a6c384-cef7-462d-814b-0030da4b7279")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15030,7 +14947,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e753cd29-0270-45c3-a465-8d11951fabb1")
 		(at 82.119017 50.562306 -18)
@@ -15057,7 +14974,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 342)
 			(layer "F.Fab")
 			(hide yes)
@@ -15069,7 +14986,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 342)
 			(layer "F.Fab")
 			(hide yes)
@@ -15085,7 +15002,7 @@
 			(at 0 0 342)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ab428b0-f76b-4c6e-9f38-cfcaf0aab6da")
+			(uuid "89eaf326-a311-4773-88c1-ed2c70680219")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15098,7 +15015,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4b822b3c-5f27-4749-b086-dbeb2597bf46")
+			(uuid "f7e58e0c-ca68-472e-ad3c-d5898edd1b85")
 			(effects
 				(font
 					(size 1 1)
@@ -15119,7 +15036,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d1083ccf-8014-4436-a955-2417b28edd75")
+			(uuid "a8f5db84-72af-498c-a571-c8e6481b436a")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -15129,7 +15046,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d4d27b26-d9e2-468d-9390-579af6111a1f")
+			(uuid "07768222-1ca6-4ca5-86c7-0b672ea59d61")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -15139,7 +15056,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2d90c352-6413-4fa6-8640-addc49699bb6")
+			(uuid "691810f0-1c10-4ce7-8ce3-ba2b1c7e0977")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -15149,7 +15066,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "40f880e5-a299-4507-ad3a-c55c56d55566")
+			(uuid "3d359a5a-2ae9-4a72-849e-d4b9c44beb7b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 342)
@@ -15181,7 +15098,7 @@
 			(uuid "d954d833-3807-4591-b9c3-8ee35a4ae36f")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15193,7 +15110,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e863e778-ee7f-4b68-be73-9c6bec7e58dd")
 		(at 82.606657 41.25759 12)
@@ -15220,7 +15137,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 12)
 			(layer "F.Fab")
 			(hide yes)
@@ -15232,7 +15149,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 12)
 			(layer "F.Fab")
 			(hide yes)
@@ -15248,7 +15165,7 @@
 			(at 0 0 12)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c5724f1-ce91-40ae-b56c-74141c688df4")
+			(uuid "6c7609b4-689b-4153-a1ad-7487f29be46b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15261,7 +15178,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "faa6fd19-6f2d-45ab-b190-4d6aebee9948")
+			(uuid "1190e819-8290-4818-a27d-a16f615a2e6b")
 			(effects
 				(font
 					(size 1 1)
@@ -15282,7 +15199,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dbfe2c14-d353-41e1-8ec7-875c0bcab2db")
+			(uuid "1e7d0148-1b2e-4c71-a143-eb12e9cc02a7")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -15292,7 +15209,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ef235460-7f82-4311-9cba-5bd84947009b")
+			(uuid "6049fa76-6423-4c1f-bceb-2cf3a4e8928d")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -15302,7 +15219,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d45be12c-3237-447f-9f22-df65911afc6a")
+			(uuid "b22b995b-75df-4359-a440-db7cd8b1f838")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -15312,7 +15229,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "26c3842e-20ce-45a5-9ef4-1203c71b9b41")
+			(uuid "dc9265d0-d5b1-4934-ad77-f97fff251e87")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 12)
@@ -15344,7 +15261,7 @@
 			(uuid "0f838909-b846-4e6c-aad4-77b6b2b9cab9")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15356,7 +15273,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e8e961e4-362f-47a3-a933-a87aaf588b73")
 		(at 80.588457 36 30)
@@ -15383,7 +15300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
@@ -15395,7 +15312,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
@@ -15411,7 +15328,7 @@
 			(at 0 0 30)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "338f39fc-6745-47c2-b1ad-b483531e6dc2")
+			(uuid "77e1d372-9883-4405-980b-d724c4357162")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15424,7 +15341,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "44daec7e-d648-4aa8-ba95-495be8803aa8")
+			(uuid "31bc18ff-9777-4d73-b930-dab2879a3bdb")
 			(effects
 				(font
 					(size 1 1)
@@ -15445,7 +15362,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cd1553b1-d391-4aae-90ab-36d26fe6fe8f")
+			(uuid "7bafd279-b560-4fa8-b7d6-3c3c0e873ded")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -15455,7 +15372,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "781c8755-b156-4770-965d-8b4fec979c39")
+			(uuid "8fa65440-117f-4a02-8bde-e3d558de9407")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -15465,7 +15382,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "80aeb0a5-9aa0-4952-8938-ff17cb7563d5")
+			(uuid "328edbda-dbc6-4e43-9277-2afa5b1460a3")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -15475,7 +15392,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6f3a4438-8e97-407c-a895-3547327f7852")
+			(uuid "8910344d-3901-4dbf-9cfe-bda053867d7a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 30)
@@ -15507,7 +15424,7 @@
 			(uuid "8a8bca3f-55ed-4f06-bb04-8622783848ce")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15519,7 +15436,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "e90ccce4-8871-4b81-b7f1-78e632d19e1f")
 		(at 49.411543 54 -150)
@@ -15546,7 +15463,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 210)
 			(layer "F.Fab")
 			(hide yes)
@@ -15558,7 +15475,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 210)
 			(layer "F.Fab")
 			(hide yes)
@@ -15574,7 +15491,7 @@
 			(at 0 0 210)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cb504cb0-f9a9-42f5-9018-ff4b8d9e189f")
+			(uuid "c9e01c91-b2c3-472c-9497-3690c7665994")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15587,7 +15504,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8d1a4b67-a38c-449a-a40b-ff5a43b2beb3")
+			(uuid "d684230d-f5ff-4bae-82e8-bce01e3d662f")
 			(effects
 				(font
 					(size 1 1)
@@ -15608,7 +15525,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8d7d40e9-6bf9-43de-9309-9d068a521b03")
+			(uuid "74ce276b-e865-47ce-9a33-09ba449838f3")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -15618,7 +15535,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "736ac7e5-9f8c-45ef-9795-1edc2b543cad")
+			(uuid "b120cd6f-0818-4341-8871-5b41fc987424")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -15628,7 +15545,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a95c28ec-2648-4adf-b5d4-2a7e62a7cb1f")
+			(uuid "0c2aafd6-54a0-43e9-85a6-88475330913d")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -15638,7 +15555,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "776ffe64-8b41-455d-849c-59043ad36928")
+			(uuid "c6c6c44f-dc37-4647-bfa9-3b7367436b44")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 210)
@@ -15670,7 +15587,7 @@
 			(uuid "c0360eff-2e0d-459c-85ce-0aa7c0242d6c")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15692,7 +15609,7 @@
 			(at 0.000001 -0.999999 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "331dd91c-51c6-4f54-b49b-47eaa1a0bfbe")
+			(uuid "9ec80f62-4cef-444b-a820-7ab24c0c7e52")
 			(effects
 				(font
 					(size 1 1)
@@ -15703,7 +15620,7 @@
 		(property "Value" "0.1uF"
 			(at -0.000001 0.999999 0)
 			(layer "F.Fab")
-			(uuid "c0955b6e-4978-4a66-8a54-84989b483c71")
+			(uuid "8d16506b-123b-483d-ac9c-8feb874f6e93")
 			(effects
 				(font
 					(size 1 1)
@@ -15715,7 +15632,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b75e9eb-d498-48cd-a7fd-8d60e3253e18")
+			(uuid "4aaa444a-2999-459f-bc6c-081332e8d838")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15727,7 +15644,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd2b664b-e91f-4940-a607-402ddda82430")
+			(uuid "7e10b5ed-9779-43a9-a4fe-e68d6c31235a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15830,7 +15747,7 @@
 			(at 0 -1.05 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5ccd0537-c277-41ac-a7e9-b841d39276e3")
+			(uuid "c79aafc4-0bc6-4b22-912d-f9ac3cf5fa59")
 			(effects
 				(font
 					(size 1 1)
@@ -15841,7 +15758,7 @@
 		(property "Value" "4.7k"
 			(at 0 1.05 90)
 			(layer "F.Fab")
-			(uuid "6d1d7e1c-6ff5-412c-bcc0-869880d37de6")
+			(uuid "9b9aa370-3f50-428a-a3fd-bf3fd7906fd8")
 			(effects
 				(font
 					(size 1 1)
@@ -15853,7 +15770,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3afc353c-3055-4aef-bfc9-dfb1e35e9ee3")
+			(uuid "55db2910-8c6b-46f2-ada9-a0f14cfaa511")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15865,7 +15782,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b94d7dae-b67c-436e-b44f-f332f64825f7")
+			(uuid "d224d4dc-c7cf-4d06-b39a-44330a2c8a26")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15956,7 +15873,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "f2847491-1d94-4656-9e77-2a2a996566d9")
 		(at 65 63 -90)
@@ -15983,7 +15900,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -15995,7 +15912,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
@@ -16011,7 +15928,7 @@
 			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4bdcaa53-b802-460e-82ce-18a327b2f308")
+			(uuid "c034e16b-8b53-4b46-91e8-232080d0375c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16024,7 +15941,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3bcc0c11-184c-4e8a-b92f-4f018fbf5f1f")
+			(uuid "ecd7f56c-ef5b-458a-b130-9090c3a20e30")
 			(effects
 				(font
 					(size 1 1)
@@ -16045,7 +15962,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a7a6f9ea-c74a-4c37-9609-015133b7440d")
+			(uuid "cd264eec-10e6-41fa-896a-4fd58caa1888")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -16055,7 +15972,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "36c3fa7c-69c5-47b0-aef3-ef7d32c8ba30")
+			(uuid "19ffaaa4-50cc-4233-a002-8c7dbe9d5924")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -16065,7 +15982,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5fff1e6b-8d9a-4474-9285-b3475aa89e4d")
+			(uuid "d1817cae-f713-4648-ba1a-8e19f545ea80")
 		)
 		(fp_line
 			(start 0.8 -0.4)
@@ -16075,7 +15992,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "de0e19bd-84ba-4e76-87de-13268db0bff7")
+			(uuid "85836336-8492-4926-9bc2-61cba87e2723")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 270)
@@ -16107,7 +16024,7 @@
 			(uuid "a7b222c6-eb96-4388-8829-4f1321404a5a")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16129,7 +16046,7 @@
 			(at 0 -1.05 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "8f0c6366-0124-4bac-95b4-ab24c20debb9")
+			(uuid "053c5200-9cc2-462f-9c6c-5bdffe1b6127")
 			(effects
 				(font
 					(size 1 1)
@@ -16140,7 +16057,7 @@
 		(property "Value" "4.7k"
 			(at 0 1.05 0)
 			(layer "F.Fab")
-			(uuid "40ef4e6c-2106-4d66-bc10-4d7df1a0466c")
+			(uuid "c2511358-bf72-4db4-9357-7aab3b5342ee")
 			(effects
 				(font
 					(size 1 1)
@@ -16152,7 +16069,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f51411d2-1d52-4eb5-b638-1580b3562899")
+			(uuid "bd0c8d45-e578-464b-88bd-e779672cd04c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16164,7 +16081,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4aca281e-5830-4b3a-b43b-6a6a7d46c213")
+			(uuid "614a621a-ae62-4cc1-b981-48b34f0b478f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16257,7 +16174,7 @@
 			)
 		)
 	)
-	(footprint "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+	(footprint "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 		(layer "F.Cu")
 		(uuid "f6b0a28d-25ec-4cef-ad32-43e7a182dcb0")
 		(at 59.437694 27.880983 108)
@@ -16265,7 +16182,6 @@
 		(property "Reference" "W4"
 			(at 0 -4 108)
 			(layer "F.SilkS")
-			(hide yes)
 			(uuid "7d5da7ab-5217-4517-a461-b2080190f298")
 			(effects
 				(font
@@ -16285,7 +16201,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 108)
 			(layer "F.Fab")
 			(hide yes)
@@ -16297,7 +16213,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" ""
 			(at 0 0 108)
 			(layer "F.Fab")
 			(hide yes)
@@ -16313,7 +16229,7 @@
 			(at 0 0 108)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a1feb56-e07c-46bc-9727-b4e30fd5f751")
+			(uuid "b3dfbd55-7092-484e-b73a-64f8c2f56861")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16326,7 +16242,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f883001-3738-45dd-800b-db79a003392a")
+			(uuid "d7d2f9f9-419a-465f-8424-7e654aea921e")
 			(effects
 				(font
 					(size 1 1)
@@ -16347,7 +16263,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7de0f586-ee88-428e-bf61-5cb341d960f7")
+			(uuid "93db9672-ec8d-481d-866e-8da1a85ab418")
 		)
 		(fp_line
 			(start -0.8 -0.4)
@@ -16357,7 +16273,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "54060879-4ca5-45b8-82d7-f5c8875b0630")
+			(uuid "5169a68a-0aaa-4a1f-85d1-f8cebafae518")
 		)
 		(fp_line
 			(start 0.8 0.4)
@@ -16367,7 +16283,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e8a6951b-158c-414b-9a2e-d694c448313a")
+			(uuid "4c072f1b-2c05-41f5-acd5-1d5fcd97a125")
 		)
 		(fp_line
 			(start -0.8 0.4)
@@ -16377,7 +16293,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "138eab3e-d146-4476-a74a-978905ad1426")
+			(uuid "9bd4f2f6-b17f-41c6-8b72-35e5b227d78b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 108)
@@ -16409,7 +16325,7 @@
 			(uuid "f8dfcac8-53ce-4ed2-98b6-6326a16e86d6")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16793,17 +16709,15 @@
 			)
 		)
 	)
-	(footprint "Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm"
+	(footprint "easyeda2kicad:QFN-20_L3.0-W3.0-P0.40-BL-EP1.7"
 		(layer "F.Cu")
 		(uuid "ffd1ca8b-f922-477a-8089-6446b527d740")
 		(at 59.5398 32.4738)
-		(descr "VQFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20%20Lead%20VQFN%203x3x0_9mm_1_7EP%20U2B%20C04-21496a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
-		(tags "VQFN NoLead")
 		(property "Reference" "U5"
-			(at 0 -2.8 0)
+			(at 0 -5.407 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "40a995ce-f58e-4b30-9c8a-0cdb26b8c565")
+			(uuid "75e0df8d-476e-4860-bff1-9829332f46af")
 			(effects
 				(font
 					(size 1 1)
@@ -16812,9 +16726,9 @@
 			)
 		)
 		(property "Value" "ATtiny1616-M"
-			(at -2.1 -18.14 0)
+			(at 0 5.407 0)
 			(layer "F.Fab")
-			(uuid "72026b3f-0fd6-4700-b2e3-58061021b177")
+			(uuid "00a40b30-b142-45bb-8efe-4f53be49caf6")
 			(effects
 				(font
 					(size 1 1)
@@ -16826,7 +16740,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "071987fe-1f74-4834-9ec4-d0b7f715e7a8")
+			(uuid "5e4555b2-99fc-4178-8829-73928fb369f1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16838,7 +16752,19 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7e70789-1843-4143-99d1-65e347e1035d")
+			(uuid "d5279d5b-7590-4c00-b9c3-a9f3b8cbee05")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C507118"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c54c1948-98e9-48da-884c-b8859ac12a9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16852,216 +16778,157 @@
 		(sheetfile "wotcher.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -2.1 -1.15)
-			(end -1.75 -1.15)
+			(start -1.58 -1.58)
+			(end -1.1 -1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "8159fc40-0567-44fd-a94f-be7f773d350c")
+			(layer "F.SilkS")
+			(uuid "00f1f204-ab71-4c47-8d63-b6316903bf7d")
 		)
 		(fp_line
-			(start -2.1 1.15)
-			(end -2.1 -1.15)
+			(start -1.58 -1.1)
+			(end -1.58 -1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "4b004329-7089-4432-9cd0-6221e21386d3")
+			(layer "F.SilkS")
+			(uuid "62219ada-2bfd-43cd-8727-0a2476f67d64")
 		)
 		(fp_line
-			(start -1.75 -1.75)
-			(end -1.15 -1.75)
+			(start -1.58 1.1)
+			(end -1.58 1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "3810bf8c-37e4-441f-9fb7-16b2dace5a3e")
+			(layer "F.SilkS")
+			(uuid "74c3f5f9-70e6-4f9d-9b3a-77a93a3a0d83")
 		)
 		(fp_line
-			(start -1.75 -1.15)
-			(end -1.75 -1.75)
+			(start -1.58 1.58)
+			(end -1.1 1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "7e3157b7-2c87-46ee-a58f-38a239589a06")
+			(layer "F.SilkS")
+			(uuid "33bf9061-635d-4c63-8c74-017c99d80b77")
 		)
 		(fp_line
-			(start -1.75 1.15)
-			(end -2.1 1.15)
+			(start 1.58 -1.58)
+			(end 1.1 -1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "9dcb82f3-336d-44ce-a0be-75298687ea49")
+			(layer "F.SilkS")
+			(uuid "391059a5-200a-4dc6-a5b3-9d5d3e9626c4")
 		)
 		(fp_line
-			(start -1.75 1.75)
-			(end -1.75 1.15)
+			(start 1.58 -1.1)
+			(end 1.58 -1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "cf7c501a-7065-4dc7-b0c9-c2b2efb8a058")
+			(layer "F.SilkS")
+			(uuid "3221ab58-48ca-4670-8999-a70d5dc752b3")
 		)
 		(fp_line
-			(start -1.15 -2.1)
-			(end 1.15 -2.1)
+			(start 1.58 1.1)
+			(end 1.58 1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "cc926aa3-dc6c-4165-ab7c-3d15e05a8ada")
+			(layer "F.SilkS")
+			(uuid "ffcbf575-15e5-41ba-8910-fd41136f5ce7")
 		)
 		(fp_line
-			(start -1.15 -1.75)
-			(end -1.15 -2.1)
+			(start 1.58 1.58)
+			(end 1.1 1.58)
 			(stroke
-				(width 0.05)
+				(width 0.15)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "0d4a5ecf-c96a-44c7-a832-62044f708f9c")
+			(layer "F.SilkS")
+			(uuid "1dedb946-f31a-43b6-8042-05873bd138a8")
 		)
-		(fp_line
-			(start -1.15 1.75)
-			(end -1.75 1.75)
+		(fp_circle
+			(center -1.5 1.5)
+			(end -1.47 1.5)
 			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "d254fce5-ed03-4863-835f-1f5155e1f211")
-		)
-		(fp_line
-			(start -1.15 2.1)
-			(end -1.15 1.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1a571493-920d-47ec-96b4-c6b4c8739f8b")
-		)
-		(fp_line
-			(start 1.15 -2.1)
-			(end 1.15 -1.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "75a66479-fc8e-4027-baa8-5da85fa4d88c")
-		)
-		(fp_line
-			(start 1.15 -1.75)
-			(end 1.75 -1.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "654feb3c-35a0-4fa0-a64e-5ff912c965a9")
-		)
-		(fp_line
-			(start 1.15 1.75)
-			(end 1.15 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "cbf35e99-f7f6-455b-8d3f-10ddba315878")
-		)
-		(fp_line
-			(start 1.15 2.1)
-			(end -1.15 2.1)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5e399bb9-96ee-4363-9461-7107f2e2785c")
-		)
-		(fp_line
-			(start 1.75 -1.75)
-			(end 1.75 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "5cb35fc8-d2a0-45d4-a616-c472a4a8baa9")
-		)
-		(fp_line
-			(start 1.75 -1.15)
-			(end 2.1 -1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "093dbb35-b05b-4f04-8e87-25244b487eb5")
-		)
-		(fp_line
-			(start 1.75 1.15)
-			(end 1.75 1.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "51e35faa-db2c-493d-8e68-63fa711d4f0c")
-		)
-		(fp_line
-			(start 1.75 1.75)
-			(end 1.15 1.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "78b65104-e795-4add-940d-59dea7f5cb5e")
-		)
-		(fp_line
-			(start 2.1 -1.15)
-			(end 2.1 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "27288063-e36a-412e-ae99-d8d76897172c")
-		)
-		(fp_line
-			(start 2.1 1.15)
-			(end 1.75 1.15)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "30a0320a-16ab-445c-9bb4-c57a37e4f5bb")
-		)
-		(fp_poly
-			(pts
-				(xy -0.75 -1.5) (xy 1.5 -1.5) (xy 1.5 1.5) (xy -1.5 1.5) (xy -1.5 -0.75)
-			)
-			(stroke
-				(width 0.1)
+				(width 0.06)
 				(type solid)
 			)
 			(fill no)
-			(layer "F.Fab")
-			(uuid "ce282fa9-6c12-44f5-b8f0-73325cea7b54")
+			(layer "F.SilkS")
+			(uuid "d424f5ac-66ed-4f79-af0b-2c44c08fa57a")
+		)
+		(fp_circle
+			(center -0.8 2.04)
+			(end -0.73 2.04)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "46c17807-ed6b-4283-80f4-c19c906cbbdd")
+		)
+		(fp_circle
+			(center -0.8 1.8)
+			(end -0.73 1.8)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "9d967e4b-24bc-49bf-963e-9ffa9b57c88a")
+		)
+		(fp_line
+			(start -1.5 -1.5)
+			(end 1.5 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "15ce8b3c-43f1-437a-ae3d-0bcb522f7fb3")
+		)
+		(fp_line
+			(start -1.5 1.5)
+			(end -1.5 -1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "082fd280-dddf-44cb-a6f7-60d85e43ac26")
+		)
+		(fp_line
+			(start 1.5 -1.5)
+			(end 1.5 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "45b011c6-7361-432e-9ed8-ee6ba81527da")
+		)
+		(fp_line
+			(start 1.5 1.5)
+			(end -1.5 1.5)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "a9b69658-2ee0-4d24-8d5c-6760815ffffc")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -17069,348 +16936,202 @@
 			(uuid "c9f2999e-a4cc-44de-b805-05aa40a069e1")
 			(effects
 				(font
-					(size 0.75 0.75)
-					(thickness 0.11)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
-		(pad "" smd roundrect
-			(at -0.425 -0.425)
-			(size 0.69 0.69)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "480c239f-fab4-4153-9485-a1d89fff1625")
-		)
-		(pad "" smd roundrect
-			(at -0.425 0.425)
-			(size 0.69 0.69)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "cd886bdb-d632-42a1-b993-bf70e9a3cf82")
-		)
-		(pad "" smd roundrect
-			(at 0.425 -0.425)
-			(size 0.69 0.69)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "db4698cd-06c5-4918-905e-ec4ea00dde15")
-		)
-		(pad "" smd roundrect
-			(at 0.425 0.425)
-			(size 0.69 0.69)
-			(layers "F.Paste")
-			(roundrect_rratio 0.25)
-			(uuid "095bf3d7-07b0-4b02-acfa-c10b56a30fee")
-		)
-		(pad "1" smd custom
-			(at -1.45 -0.8)
-			(size 0.143431 0.143431)
+		(pad "1" smd rect
+			(at -0.8 1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 33 "unconnected-(U5-PA2-Pad1)")
 			(pinfunction "PA2")
 			(pintype "bidirectional+no_connect")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.35 -0.05) (xy 0.299289 -0.05) (xy 0.35 0.000711) (xy 0.35 0.05) (xy -0.35 0.05)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "d76513f3-3dad-4ca8-b678-0d9fb4f10e0e")
 		)
-		(pad "2" smd roundrect
-			(at -1.45 -0.4)
-			(size 0.8 0.2)
+		(pad "2" smd rect
+			(at -0.4 1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 34 "unconnected-(U5-PA3-Pad2)")
 			(pinfunction "PA3")
 			(pintype "bidirectional+no_connect")
 			(uuid "fb490169-cb6d-4038-9762-c31213819b63")
 		)
-		(pad "3" smd roundrect
-			(at -1.45 0)
-			(size 0.8 0.2)
+		(pad "3" smd rect
+			(at 0 1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 17 "ATtinyGND")
 			(pinfunction "GND")
 			(pintype "power_in")
 			(uuid "5f3a3bdf-3b76-4cb5-a032-f6c8202d9401")
 		)
-		(pad "4" smd roundrect
-			(at -1.45 0.4)
-			(size 0.8 0.2)
+		(pad "4" smd rect
+			(at 0.4 1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 43 "ATtinyVCC")
 			(pinfunction "VCC")
 			(pintype "power_in")
 			(uuid "a2bcfccc-8b79-41ca-a64e-80bab64c4ee9")
 		)
-		(pad "5" smd custom
-			(at -1.45 0.8)
-			(size 0.143431 0.143431)
+		(pad "5" smd rect
+			(at 0.8 1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 32 "unconnected-(U5-PA4-Pad5)")
 			(pinfunction "PA4")
 			(pintype "bidirectional+no_connect")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.35 -0.05) (xy 0.35 -0.05) (xy 0.35 -0.000711) (xy 0.299289 0.05) (xy -0.35 0.05)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "be2fc0ea-2da9-41b5-a5b7-aa7304b409de")
 		)
-		(pad "6" smd custom
-			(at -0.8 1.45)
-			(size 0.143431 0.143431)
+		(pad "6" smd rect
+			(at 1.41 0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 21 "unconnected-(U5-PA5-Pad6)")
 			(pinfunction "PA5")
 			(pintype "bidirectional+no_connect")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.05 -0.299289) (xy 0.000711 -0.35) (xy 0.05 -0.35) (xy 0.05 0.35) (xy -0.05 0.35)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "95f46ea6-5f62-4590-a3a3-cb4e00ae05e9")
 		)
-		(pad "7" smd roundrect
-			(at -0.4 1.45)
-			(size 0.2 0.8)
+		(pad "7" smd rect
+			(at 1.41 0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 27 "PA6")
 			(pinfunction "PA6")
 			(pintype "bidirectional")
 			(uuid "8688bd17-f2ea-4cdb-9e91-c10d90e5d0bd")
 		)
-		(pad "8" smd roundrect
-			(at 0 1.45)
-			(size 0.2 0.8)
+		(pad "8" smd rect
+			(at 1.41 0)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 30 "PA7")
 			(pinfunction "PA7")
 			(pintype "bidirectional")
 			(uuid "21fb15d4-a464-4baf-846f-9485fdf5a5dd")
 		)
-		(pad "9" smd roundrect
-			(at 0.4 1.45)
-			(size 0.2 0.8)
+		(pad "9" smd rect
+			(at 1.41 -0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 20 "unconnected-(U5-PB5-Pad9)")
 			(pinfunction "PB5")
 			(pintype "bidirectional+no_connect")
 			(uuid "94e4ab5a-e243-4ba1-af42-6d318a6674fe")
 		)
-		(pad "10" smd custom
-			(at 0.8 1.45)
-			(size 0.143431 0.143431)
+		(pad "10" smd rect
+			(at 1.41 -0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 42 "Net-(U5-PB4)")
 			(pinfunction "PB4")
 			(pintype "bidirectional")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.05 -0.35) (xy -0.000711 -0.35) (xy 0.05 -0.299289) (xy 0.05 0.35) (xy -0.05 0.35)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "48ce3e86-74ec-40c9-a523-5dca1ca69df7")
 		)
-		(pad "11" smd custom
-			(at 1.45 0.8)
-			(size 0.143431 0.143431)
+		(pad "11" smd rect
+			(at 0.8 -1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 29 "Net-(U5-PB3)")
 			(pinfunction "PB3")
 			(pintype "bidirectional")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.35 -0.05) (xy 0.35 -0.05) (xy 0.35 0.05) (xy -0.299289 0.05) (xy -0.35 -0.000711)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "356df252-22dc-4354-8494-bf6f4a1f9601")
 		)
-		(pad "12" smd roundrect
-			(at 1.45 0.4)
-			(size 0.8 0.2)
+		(pad "12" smd rect
+			(at 0.4 -1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 28 "Net-(U5-PB2)")
 			(pinfunction "PB2")
 			(pintype "bidirectional")
 			(uuid "d55bde2c-0f59-4694-a5ca-2532e728f6d6")
 		)
-		(pad "13" smd roundrect
-			(at 1.45 0)
-			(size 0.8 0.2)
+		(pad "13" smd rect
+			(at 0 -1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 47 "Net-(U5-PB1)")
 			(pinfunction "PB1")
 			(pintype "bidirectional")
 			(uuid "0d94a8d9-9718-48f7-88fa-1fc719ef237d")
 		)
-		(pad "14" smd roundrect
-			(at 1.45 -0.4)
-			(size 0.8 0.2)
+		(pad "14" smd rect
+			(at -0.4 -1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 46 "Net-(U3-SDO)")
 			(pinfunction "PB0")
 			(pintype "bidirectional")
 			(uuid "318ab204-a2d1-4cf3-844c-a87ad8b1bafc")
 		)
-		(pad "15" smd custom
-			(at 1.45 -0.8)
-			(size 0.143431 0.143431)
+		(pad "15" smd rect
+			(at -0.8 -1.41)
+			(size 0.2 0.665)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 23 "Net-(U5-PC0)")
 			(pinfunction "PC0")
 			(pintype "bidirectional")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.35 0.000711) (xy -0.299289 -0.05) (xy 0.35 -0.05) (xy 0.35 0.05) (xy -0.35 0.05)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "43d34f4f-b04c-498e-ab8c-7ea0d8043810")
 		)
-		(pad "16" smd custom
-			(at 0.8 -1.45)
-			(size 0.143431 0.143431)
+		(pad "16" smd rect
+			(at -1.41 -0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 24 "Net-(U5-PC1)")
 			(pinfunction "PC1")
 			(pintype "bidirectional")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.05 -0.35) (xy 0.05 -0.35) (xy 0.05 0.299289) (xy -0.000711 0.35) (xy -0.05 0.35)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "66457a38-d34d-4cbf-9a71-ff9372af2eac")
 		)
-		(pad "17" smd roundrect
-			(at 0.4 -1.45)
-			(size 0.2 0.8)
+		(pad "17" smd rect
+			(at -1.41 -0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 25 "Net-(U5-PC2)")
 			(pinfunction "PC2")
 			(pintype "bidirectional")
 			(uuid "6a9f8c22-21ef-49e5-a214-a565994547ca")
 		)
-		(pad "18" smd roundrect
-			(at 0 -1.45)
-			(size 0.2 0.8)
+		(pad "18" smd rect
+			(at -1.41 0)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 26 "Net-(U5-PC3)")
 			(pinfunction "PC3")
 			(pintype "bidirectional")
 			(uuid "307b474b-2ae5-4ae6-b2c4-824bf2d2a2af")
 		)
-		(pad "19" smd roundrect
-			(at -0.4 -1.45)
-			(size 0.2 0.8)
+		(pad "19" smd rect
+			(at -1.41 0.4)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
 			(net 19 "PA0")
 			(pinfunction "~{RESET}/PA0")
 			(pintype "bidirectional")
 			(uuid "4f1993a7-1268-45e1-9e7c-008c726ea8da")
 		)
-		(pad "20" smd custom
-			(at -0.8 -1.45)
-			(size 0.143431 0.143431)
+		(pad "20" smd rect
+			(at -1.41 0.8)
+			(size 0.665 0.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 31 "unconnected-(U5-PA1-Pad20)")
 			(pinfunction "PA1")
 			(pintype "bidirectional+no_connect")
-			(options
-				(clearance outline)
-				(anchor circle)
-			)
-			(primitives
-				(gr_poly
-					(pts
-						(xy -0.05 -0.35) (xy 0.05 -0.35) (xy 0.05 0.35) (xy 0.000711 0.35) (xy -0.05 0.299289)
-					)
-					(width 0.1)
-					(fill yes)
-				)
-			)
 			(uuid "861fe641-82c3-40be-ba1a-1e493a9100d8")
 		)
 		(pad "21" smd rect
 			(at 0 0)
-			(size 1.7 1.7)
-			(property pad_prop_heatsink)
-			(layers "F.Cu" "F.Mask")
+			(size 1.65 1.65)
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 17 "ATtinyGND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(zone_connect 2)
 			(uuid "dc6c74d7-db80-441d-8a51-1172f3b16033")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.step"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/QFN-20_L3.0-W3.0-P0.40-BL-EP1.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17692,15 +17413,15 @@
 			(uuid "1fdc8982-7560-43cd-a454-8079f79fc130")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-SMD_SR1.00-WS-2P.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/CONN-SMD_SR1.00-WS-2P.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -0.5 -0.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -18491,7 +18212,7 @@
 			(uuid "de3280e3-4acd-403d-bb80-d01646adbf34")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.wrl"
+		(model "/Users/Leshui/Documents/KiCad/easyeda2kicad/easyeda2kicad.3dshapes/SOIC-8_L4.9-W3.9-H1.7-LS6.0-P1.27.step"
 			(offset
 				(xyz 0 0 0)
 			)

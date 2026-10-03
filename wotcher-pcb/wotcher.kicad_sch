@@ -14153,7 +14153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 80.01 90)
 			(effects
 				(font
@@ -14298,7 +14298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 34.29 90)
 			(effects
 				(font
@@ -14442,7 +14442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 199.39 90)
 			(effects
 				(font
@@ -14521,7 +14521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 153.67 90)
 			(effects
 				(font
@@ -14600,7 +14600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 80.01 90)
 			(effects
 				(font
@@ -14748,7 +14748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 72.39 90)
 			(effects
 				(font
@@ -14827,7 +14827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 87.63 90)
 			(effects
 				(font
@@ -14906,7 +14906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 87.63 90)
 			(effects
 				(font
@@ -15065,7 +15065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 146.05 90)
 			(effects
 				(font
@@ -15257,7 +15257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 138.43 90)
 			(effects
 				(font
@@ -15503,7 +15503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 95.25 90)
 			(effects
 				(font
@@ -15582,7 +15582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 64.77 90)
 			(effects
 				(font
@@ -15661,7 +15661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 176.53 90)
 			(effects
 				(font
@@ -15740,7 +15740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 161.29 90)
 			(effects
 				(font
@@ -15819,7 +15819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 176.53 90)
 			(effects
 				(font
@@ -15898,7 +15898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 191.77 90)
 			(effects
 				(font
@@ -16221,7 +16221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 95.25 90)
 			(effects
 				(font
@@ -16300,7 +16300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 199.39 90)
 			(effects
 				(font
@@ -16379,7 +16379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 138.43 90)
 			(effects
 				(font
@@ -16458,7 +16458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 41.91 90)
 			(effects
 				(font
@@ -16537,7 +16537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 168.91 90)
 			(effects
 				(font
@@ -16843,7 +16843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 87.63 90)
 			(effects
 				(font
@@ -16922,7 +16922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 146.05 90)
 			(effects
 				(font
@@ -17001,7 +17001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 95.25 90)
 			(effects
 				(font
@@ -17080,7 +17080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 72.39 90)
 			(effects
 				(font
@@ -17388,7 +17388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 41.91 90)
 			(effects
 				(font
@@ -17467,7 +17467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 57.15 90)
 			(effects
 				(font
@@ -17724,7 +17724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 87.63 90)
 			(effects
 				(font
@@ -17803,7 +17803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 168.91 90)
 			(effects
 				(font
@@ -18031,7 +18031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 146.05 90)
 			(effects
 				(font
@@ -18270,7 +18270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 57.15 90)
 			(effects
 				(font
@@ -18442,7 +18442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 153.67 90)
 			(effects
 				(font
@@ -18521,7 +18521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 57.15 90)
 			(effects
 				(font
@@ -18600,7 +18600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 34.29 90)
 			(effects
 				(font
@@ -18748,7 +18748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 184.15 90)
 			(effects
 				(font
@@ -18827,7 +18827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 49.53 90)
 			(effects
 				(font
@@ -19144,7 +19144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 184.15 90)
 			(effects
 				(font
@@ -19223,7 +19223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 57.15 111.76 90)
 			(effects
 				(font
@@ -19302,7 +19302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 80.01 90)
 			(effects
 				(font
@@ -19381,7 +19381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 191.77 90)
 			(effects
 				(font
@@ -19627,7 +19627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 176.53 90)
 			(effects
 				(font
@@ -19706,7 +19706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 49.53 90)
 			(effects
 				(font
@@ -19865,7 +19865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 34.29 90)
 			(effects
 				(font
@@ -20439,7 +20439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 168.91 90)
 			(effects
 				(font
@@ -20518,7 +20518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 153.67 90)
 			(effects
 				(font
@@ -20597,7 +20597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 240.03 161.29 90)
 			(effects
 				(font
@@ -20676,7 +20676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 248.92 138.43 90)
 			(effects
 				(font
@@ -20755,7 +20755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 41.91 90)
 			(effects
 				(font
@@ -20901,7 +20901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 95.25 90)
 			(effects
 				(font
@@ -20980,7 +20980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 64.77 90)
 			(effects
 				(font
@@ -21059,7 +21059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 41.91 90)
 			(effects
 				(font
@@ -21138,7 +21138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm"
+		(property "Footprint" "easyeda2kicad:QFN-28_L4.0-W4.0-P0.40-BL-EP"
 			(at 121.92 88.9 0)
 			(effects
 				(font
@@ -21289,7 +21289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 72.39 90)
 			(effects
 				(font
@@ -21437,7 +21437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 34.29 90)
 			(effects
 				(font
@@ -21516,7 +21516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 49.53 90)
 			(effects
 				(font
@@ -21770,7 +21770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm"
+		(property "Footprint" "easyeda2kicad:QFN-20_L3.0-W3.0-P0.40-BL-EP1.7"
 			(at 38.1 81.28 0)
 			(effects
 				(font
@@ -21964,7 +21964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 231.14 161.29 90)
 			(effects
 				(font
@@ -22043,7 +22043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 64.77 90)
 			(effects
 				(font
@@ -22122,7 +22122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 212.09 49.53 90)
 			(effects
 				(font
@@ -22339,7 +22339,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 64.77 90)
 			(effects
 				(font
@@ -22418,7 +22418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 194.31 80.01 90)
 			(effects
 				(font
@@ -22702,7 +22702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 185.42 57.15 90)
 			(effects
 				(font
@@ -22781,7 +22781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ledproject:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD"
 			(at 203.2 72.39 90)
 			(effects
 				(font
