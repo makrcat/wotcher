@@ -5,9 +5,6 @@
 
 <img src="assets/image.png" width= "500px">
 
-> Note: I have yet to add the silkscreen, but the components are basically finalized. I gotta sketch it out on paper first
-
-
 Wotcher a digital raise-to-wake LED watch. It's inspired by various retro-style watches, such as the aptly named retrowatch, the charlie watch, and the decko circuit face watch, as well as other pinterest pictures lol.
 
 <img src="assets/othercool.png" width="500px">
