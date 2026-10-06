@@ -3,7 +3,7 @@
 ## wotcher
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fmakrcat%2Fwotcher%2Fblob%2Fmain%2Fwotcher-pcb%2Fwotcher.kicad_pro)
 
-<img src="assets/3ded.png" width= "500px">
+<img src="assets/image.png" width= "500px">
 
 > Note: I have yet to add the silkscreen, but the components are basically finalized. I gotta sketch it out on paper first
 
