@@ -5,7 +5,7 @@
 
 <img src="assets/image.png" width= "500px">
 
-Wotcher a digital raise-to-wake LED watch. It's inspired by various retro-style watches, such as the aptly named retrowatch, the charlie watch, and the decko circuit face watch, as well as other pinterest pictures lol.
+Wotcher a digital raise-to-wake LED watch, with 89 LEDs in total! It uses something called charlieplexing to make all the lights glow at once. It's inspired by various retro-style watches, such as the aptly named retrowatch, the charlie watch, and the decko circuit face watch, as well as other pinterest pictures.
 
 <img src="assets/othercool.png" width="500px">
 
