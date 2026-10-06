@@ -1,0 +1,16 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,LCSC Part,Manufacturer,Sim.Pins
+"C1, C3, C4, C5, C6",5,0.1uF,C_01005_0402Metric,,,,smt,"Unpolarized capacitor, small symbol",,,
+C2,1,1uF,C_01005_0402Metric,,,,smt,"Unpolarized capacitor, small symbol",,,
+CN1,1,SM02B-SRSS-TB,CONN-SMD_2P-P1.00_SM02B-SRSS-TB-LF-SN,,SM02B-SRSS-TB(LF)(SN),,smt,,C160402,JST,
+"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",16,LED_RGB,LED-ARRAY-SMD_6P-L1.6-W1.6-TL_19-337C-RSBHGHC-M01,,,,tht,"RGB LED, 6 pin package",C3019536,,
+"R1, R2, R3",3,4.7k,R_0201_0603Metric,,,,smt,"Resistor, small US symbol",,,
+R4,1,100k,R_0201_0603Metric,,,,smt,"Resistor, small US symbol",,,
+R5,1,20k,R_0201_0603Metric,,,,smt,"Resistor, small US symbol",,,
+R6,1,220,R_0201_0603Metric,,,,smt,"Resistor, small US symbol",,,
+"SW1, SW2, SW3, SW4",4,SKTDLHE010,KEY-SMD_SKTDLHE010,,SKTDLHE010,,smt,,C380198,ALPSALPINE(阿尔卑斯阿尔派),
+"U1, U2, U6, U8",4,KCSA02-105,KCSC02-105,,,,smt,"One digit 7 segment hyper red LED, common anode",,,
+U3,1,LIS2DW12TR-MS,LGA-12_L2.0-W2.0_BMA250,,LIS2DW12TR-MS,,smt,,C50385411,MSKSEMI(美森科),
+U5,1,ATtiny1616-M,QFN-20_L3.0-W3.0-P0.40-BL-EP1.7,,,,smt,,C507118,,
+U7,1,IS31FL3731-QF,QFN-28_L4.0-W4.0-P0.40-BL-EP,,null,,smt,"9x16 LED matrix driver with 8-bit PWM and breathing, QFN-28",C191206,null,
+U9,1,DS3231MZ+,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,,DS3231MZ+TRL,,smt,,C107410,ADI(亚德诺)/MAXIM(美信),
+"W1, W10, W11, W12, W13, W14, W15, W16, W17, W18, W19, W2, W20, W21, W22, W23, W24, W25, W26, W27, W28, W29, W3, W30, W31, W32, W33, W34, W35, W36, W37, W38, W39, W4, W40, W41, W42, W43, W44, W45, W46, W47, W48, W49, W5, W50, W51, W52, W53, W54, W55, W56, W57, W58, W59, W6, W60, W61, W7, W8, W9",61,LED_Small,LED-SMD_L1.6-W0.8-R-RD,,,,smt,"Light emitting diode, small symbol",C2286,,1=K 2=A

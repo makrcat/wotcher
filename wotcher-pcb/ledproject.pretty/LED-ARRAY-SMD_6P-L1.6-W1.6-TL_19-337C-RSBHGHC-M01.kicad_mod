@@ -63,18 +63,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_poly
-		(pts
-			(xy -0.154991 -0.399999) (xy -0.154991 0.399999) (xy 0.245008 0) (xy -0.154991 -0.399999)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill yes)
-		(layer "F.SilkS")
-		(uuid "48f62231-9b77-4cad-bb69-e0a2b72ebf67")
-	)
 	(fp_line
 		(start -0.8 -0.8)
 		(end 0.8 -0.8)
