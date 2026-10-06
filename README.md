@@ -1,7 +1,7 @@
 
 
 ## wotcher
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fmakrcat%2Fwotcher%2Fblob%2Fmain%2Fwotcher-pcb%2Fwotcher.kicad_pro)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fmakrcat%2Fwotcher%2Fblob%2Fmain%2Fwotcher-pcb)
 
 <img src="assets/image.png" width= "500px">
 
